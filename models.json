@@ -6,7 +6,7 @@
       "external_url":"",
       "image":{
          "old":"https://raw.githubusercontent.com/tclairet/test-opensea/main/scout.png",
-         "frame":"frame/common.png",
+         "frame":"frame/rare.png",
          "model":"ship/scout.png",
          "background":"background/bg1.png"
       },
@@ -72,7 +72,7 @@
       "external_url":"",
       "image":{
          "old":"https://raw.githubusercontent.com/tclairet/test-opensea/main/drone.png",
-         "frame":"frame/common.png",
+         "frame":"frame/rare.png",
          "model":"ship/drone.png",
          "background":"background/bg1.png"
       },
