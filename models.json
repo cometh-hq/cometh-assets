@@ -7,7 +7,7 @@
       "image":{
          "frame":"frame/rare.png",
          "model":"ship/scout.png",
-         "background":"background/bg1.png"
+         "background":"background/human.png"
       },
       "attributes":[
          {
@@ -28,7 +28,7 @@
       "image":{
          "frame":"frame/epic.png",
          "model":"ship/explorer.png",
-         "background":"background/bg1.png"
+         "background":"background/protoss.png"
       },
       "attributes":[
          {
@@ -49,7 +49,7 @@
       "image":{
          "frame":"frame/mythic.png",
          "model":"ship/interceptor.png",
-         "background":"background/bg1.png"
+         "background":"background/human.png"
       },
       "attributes":[
          {
@@ -70,7 +70,70 @@
       "image":{
          "frame":"frame/common.png",
          "model":"ship/drone.png",
-         "background":"background/bg1.png"
+         "background":"background/protoss.png"
+      },
+      "attributes":[
+         {
+            "trait_type":"scarcity",
+            "value":"Common"
+         },
+         {
+            "trait_type":"race",
+            "value":"Protoss"
+         }
+      ]
+   },
+   "4":{
+      "name":"Cruiser",
+      "description":"blabla.",
+      "background_color":"f3f2f3",
+      "external_url":"",
+      "image":{
+         "frame":"frame/common.png",
+         "model":"ship/cruiser.png",
+         "background":"background/protoss.png"
+      },
+      "attributes":[
+         {
+            "trait_type":"scarcity",
+            "value":"Common"
+         },
+         {
+            "trait_type":"race",
+            "value":"Protoss"
+         }
+      ]
+   },
+   "5":{
+      "name":"Scavenger",
+      "description":"blabla.",
+      "background_color":"f3f2f3",
+      "external_url":"",
+      "image":{
+         "frame":"frame/common.png",
+         "model":"ship/scavenger.png",
+         "background":"background/protoss.png"
+      },
+      "attributes":[
+         {
+            "trait_type":"scarcity",
+            "value":"Common"
+         },
+         {
+            "trait_type":"race",
+            "value":"Protoss"
+         }
+      ]
+   },
+   "6":{
+      "name":"Speeder",
+      "description":"blabla.",
+      "background_color":"f3f2f3",
+      "external_url":"",
+      "image":{
+         "frame":"frame/common.png",
+         "model":"ship/speeder.png",
+         "background":"background/human.png"
       },
       "attributes":[
          {
