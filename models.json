@@ -26,14 +26,14 @@
       "background_color":"f3f2f3",
       "external_url":"",
       "image":{
-         "frame":"frame/common.png",
+         "frame":"frame/epic.png",
          "model":"ship/explorer.png",
          "background":"background/bg1.png"
       },
       "attributes":[
          {
             "trait_type":"scarcity",
-            "value":"Rare"
+            "value":"Epic"
          },
          {
             "trait_type":"race",
@@ -47,14 +47,14 @@
       "background_color":"f3f2f3",
       "external_url":"",
       "image":{
-         "frame":"frame/common.png",
+         "frame":"frame/mythic.png",
          "model":"ship/interceptor.png",
          "background":"background/bg1.png"
       },
       "attributes":[
          {
             "trait_type":"scarcity",
-            "value":"Rare"
+            "value":"Mythic"
          },
          {
             "trait_type":"race",
@@ -68,14 +68,14 @@
       "background_color":"f3f2f3",
       "external_url":"",
       "image":{
-         "frame":"frame/rare.png",
+         "frame":"frame/common.png",
          "model":"ship/drone.png",
          "background":"background/bg1.png"
       },
       "attributes":[
          {
             "trait_type":"scarcity",
-            "value":"Rare"
+            "value":"Common"
          },
          {
             "trait_type":"race",
