@@ -6,9 +6,9 @@
       "external_url":"",
       "supply":"100",
       "image":{
-         "frame":"rare.png",
-         "model":"scout.png",
-         "background":"human.png"
+         "frame":"rare",
+         "model":"scout",
+         "background":"human"
       },
       "attributes":[
          {
@@ -28,9 +28,9 @@
       "background_color":"f3f2f3",
       "external_url":"",
       "image":{
-         "frame":"epic.png",
-         "model":"explorer.png",
-         "background":"protoss.png"
+         "frame":"epic",
+         "model":"explorer",
+         "background":"protoss"
       },
       "attributes":[
          {
@@ -50,9 +50,9 @@
       "background_color":"f3f2f3",
       "external_url":"",
       "image":{
-         "frame":"mythic.png",
-         "model":"interceptor.png",
-         "background":"human.png"
+         "frame":"mythic",
+         "model":"interceptor",
+         "background":"human"
       },
       "attributes":[
          {
@@ -72,9 +72,9 @@
       "background_color":"f3f2f3",
       "external_url":"",
       "image":{
-         "frame":"common.png",
-         "model":"drone.png",
-         "background":"protoss.png"
+         "frame":"common",
+         "model":"drone",
+         "background":"protoss"
       },
       "attributes":[
          {
@@ -94,9 +94,9 @@
       "background_color":"f3f2f3",
       "external_url":"",
       "image":{
-         "frame":"common.png",
-         "model":"cruiser.png",
-         "background":"protoss.png"
+         "frame":"common",
+         "model":"cruiser",
+         "background":"protoss"
       },
       "attributes":[
          {
@@ -116,9 +116,9 @@
       "background_color":"f3f2f3",
       "external_url":"",
       "image":{
-         "frame":"common.png",
-         "model":"scavenger.png",
-         "background":"protoss.png"
+         "frame":"common",
+         "model":"scavenger",
+         "background":"protoss"
       },
       "attributes":[
          {
@@ -138,9 +138,9 @@
       "background_color":"f3f2f3",
       "external_url":"",
       "image":{
-         "frame":"common.png",
-         "model":"speeder.png",
-         "background":"human.png"
+         "frame":"common",
+         "model":"speeder",
+         "background":"human"
       },
       "attributes":[
          {
