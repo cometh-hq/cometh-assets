@@ -4,10 +4,11 @@
       "description":"blabla.",
       "background_color":"f3f2f3",
       "external_url":"",
+      "supply":"100",
       "image":{
-         "frame":"frame/rare.png",
-         "model":"ship/scout.png",
-         "background":"background/human.png"
+         "frame":"rare.png",
+         "model":"scout.png",
+         "background":"human.png"
       },
       "attributes":[
          {
@@ -22,13 +23,14 @@
    },
    "1":{
       "name":"Explorer",
+      "supply":"100",
       "description":"blabla.",
       "background_color":"f3f2f3",
       "external_url":"",
       "image":{
-         "frame":"frame/epic.png",
-         "model":"ship/explorer.png",
-         "background":"background/protoss.png"
+         "frame":"epic.png",
+         "model":"explorer.png",
+         "background":"protoss.png"
       },
       "attributes":[
          {
@@ -43,13 +45,14 @@
    },
    "2":{
       "name":"Interceptor",
+      "supply":"100",
       "description":"blabla.",
       "background_color":"f3f2f3",
       "external_url":"",
       "image":{
-         "frame":"frame/mythic.png",
-         "model":"ship/interceptor.png",
-         "background":"background/human.png"
+         "frame":"mythic.png",
+         "model":"interceptor.png",
+         "background":"human.png"
       },
       "attributes":[
          {
@@ -64,13 +67,14 @@
    },
    "3":{
       "name":"Drone",
+      "supply":"100",
       "description":"blabla.",
       "background_color":"f3f2f3",
       "external_url":"",
       "image":{
-         "frame":"frame/common.png",
-         "model":"ship/drone.png",
-         "background":"background/protoss.png"
+         "frame":"common.png",
+         "model":"drone.png",
+         "background":"protoss.png"
       },
       "attributes":[
          {
@@ -85,13 +89,14 @@
    },
    "4":{
       "name":"Cruiser",
+      "supply":"100",
       "description":"blabla.",
       "background_color":"f3f2f3",
       "external_url":"",
       "image":{
-         "frame":"frame/common.png",
-         "model":"ship/cruiser.png",
-         "background":"background/protoss.png"
+         "frame":"common.png",
+         "model":"cruiser.png",
+         "background":"protoss.png"
       },
       "attributes":[
          {
@@ -106,13 +111,14 @@
    },
    "5":{
       "name":"Scavenger",
+      "supply":"100",
       "description":"blabla.",
       "background_color":"f3f2f3",
       "external_url":"",
       "image":{
-         "frame":"frame/common.png",
-         "model":"ship/scavenger.png",
-         "background":"background/protoss.png"
+         "frame":"common.png",
+         "model":"scavenger.png",
+         "background":"protoss.png"
       },
       "attributes":[
          {
@@ -127,13 +133,14 @@
    },
    "6":{
       "name":"Speeder",
+      "supply":"100",
       "description":"blabla.",
       "background_color":"f3f2f3",
       "external_url":"",
       "image":{
-         "frame":"frame/common.png",
-         "model":"ship/speeder.png",
-         "background":"background/human.png"
+         "frame":"common.png",
+         "model":"speeder.png",
+         "background":"human.png"
       },
       "attributes":[
          {
