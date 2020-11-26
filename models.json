@@ -7,7 +7,7 @@
       "supply":"100",
       "image":{
          "frame":"rare",
-         "model":"scout",
+         "model":"explorer",
          "background":"human"
       },
       "attributes":[
@@ -51,7 +51,7 @@
       "external_url":"",
       "image":{
          "frame":"mythic",
-         "model":"interceptor",
+         "model":"explorer",
          "background":"human"
       },
       "attributes":[
@@ -73,7 +73,7 @@
       "external_url":"",
       "image":{
          "frame":"common",
-         "model":"drone",
+         "model":"explorer",
          "background":"protoss"
       },
       "attributes":[
@@ -95,7 +95,7 @@
       "external_url":"",
       "image":{
          "frame":"common",
-         "model":"cruiser",
+         "model":"explorer",
          "background":"protoss"
       },
       "attributes":[
@@ -117,7 +117,7 @@
       "external_url":"",
       "image":{
          "frame":"common",
-         "model":"scavenger",
+         "model":"explorer",
          "background":"protoss"
       },
       "attributes":[
@@ -139,7 +139,7 @@
       "external_url":"",
       "image":{
          "frame":"common",
-         "model":"speeder",
+         "model":"explorer",
          "background":"human"
       },
       "attributes":[
