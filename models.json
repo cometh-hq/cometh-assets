@@ -28,14 +28,14 @@
       "background_color":"f3f2f3",
       "external_url":"",
       "image":{
-         "frame":"epic",
+         "frame":"legendary",
          "model":"explorer",
          "background":"protoss"
       },
       "attributes":[
          {
             "trait_type":"scarcity",
-            "value":"Epic"
+            "value":"Legendary"
          },
          {
             "trait_type":"race",
@@ -50,14 +50,14 @@
       "background_color":"f3f2f3",
       "external_url":"",
       "image":{
-         "frame":"mythic",
+         "frame":"mythical",
          "model":"explorer",
          "background":"human"
       },
       "attributes":[
          {
             "trait_type":"scarcity",
-            "value":"Mythic"
+            "value":"Mythical"
          },
          {
             "trait_type":"race",
