@@ -5,6 +5,7 @@
     "background_color": "f3f2f3",
     "external_url": "",
     "supply": "100",
+    "race": "Human",
     "image": {
       "frame": "common",
       "model": "jumper",
@@ -26,6 +27,7 @@
     "background_color": "f3f2f3",
     "external_url": "",
     "supply": "100",
+    "race": "Human",
     "image": {
       "frame": "common",
       "model": "explorer",
@@ -47,6 +49,7 @@
     "background_color": "f3f2f3",
     "external_url": "",
     "supply": "100",
+    "race": "Human",
     "image": {
       "frame": "rare",
       "model": "interceptor",
@@ -68,6 +71,7 @@
     "background_color": "f3f2f3",
     "external_url": "",
     "supply": "100",
+    "race": "Human",
     "image": {
       "frame": "rare",
       "model": "battleship",
@@ -89,6 +93,7 @@
     "background_color": "f3f2f3",
     "external_url": "",
     "supply": "100",
+    "race": "Human",
     "image": {
       "frame": "legendary",
       "model": "destroyer",
@@ -110,6 +115,7 @@
     "background_color": "f3f2f3",
     "external_url": "",
     "supply": "100",
+    "race": "Ban'Khor",
     "image": {
       "frame": "common",
       "model": "drone",
@@ -131,6 +137,7 @@
     "background_color": "f3f2f3",
     "external_url": "",
     "supply": "100",
+    "race": "Ban'Khor",
     "image": {
       "frame": "pacificator",
       "model": "explorer",
@@ -152,6 +159,7 @@
     "background_color": "f3f2f3",
     "external_url": "",
     "supply": "100",
+    "race": "Ban'Khor",
     "image": {
       "frame": "rare",
       "model": "vanguard",
@@ -173,6 +181,7 @@
     "background_color": "f3f2f3",
     "external_url": "",
     "supply": "100",
+    "race": "Ban'Khor",
     "image": {
       "frame": "rare",
       "model": "judge",
@@ -194,6 +203,7 @@
     "background_color": "f3f2f3",
     "external_url": "",
     "supply": "100",
+    "race": "Ban'Khor",
     "image": {
       "frame": "legendary",
       "model": "inquisitor",
@@ -215,6 +225,7 @@
     "background_color": "f3f2f3",
     "external_url": "",
     "supply": "100",
+    "race": "Creator",
     "image": {
       "frame": "mythical",
       "model": "inquisitor",
