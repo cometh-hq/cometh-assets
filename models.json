@@ -139,8 +139,8 @@
     "supply": "100",
     "race": "Ban'Khor",
     "image": {
-      "frame": "pacificator",
-      "model": "explorer",
+      "frame": "common",
+      "model": "pacificator",
       "background": "bankhor"
     },
     "attributes": [{
