@@ -4,7 +4,7 @@
     "description": "blabla.",
     "background_color": "f3f2f3",
     "external_url": "",
-    "supply": "100",
+    "supply": "1000",
     "race": "Human",
     "image": {
       "frame": "common",
@@ -26,7 +26,7 @@
     "description": "blabla.",
     "background_color": "f3f2f3",
     "external_url": "",
-    "supply": "100",
+    "supply": "1000",
     "race": "Human",
     "image": {
       "frame": "common",
@@ -92,7 +92,7 @@
     "description": "blabla.",
     "background_color": "f3f2f3",
     "external_url": "",
-    "supply": "100",
+    "supply": "10",
     "race": "Human",
     "image": {
       "frame": "legendary",
@@ -114,7 +114,7 @@
     "description": "blabla.",
     "background_color": "f3f2f3",
     "external_url": "",
-    "supply": "100",
+    "supply": "1000",
     "race": "Ban'Khor",
     "image": {
       "frame": "common",
@@ -136,7 +136,7 @@
     "description": "blabla.",
     "background_color": "f3f2f3",
     "external_url": "",
-    "supply": "100",
+    "supply": "1000",
     "race": "Ban'Khor",
     "image": {
       "frame": "common",
@@ -202,7 +202,7 @@
     "description": "blabla.",
     "background_color": "f3f2f3",
     "external_url": "",
-    "supply": "100",
+    "supply": "10",
     "race": "Ban'Khor",
     "image": {
       "frame": "legendary",
@@ -224,11 +224,11 @@
     "description": "blabla.",
     "background_color": "f3f2f3",
     "external_url": "",
-    "supply": "100",
+    "supply": "3",
     "race": "Creator",
     "image": {
       "frame": "mythical",
-      "model": "inquisitor",
+      "model": "sunriser",
       "background": "creator"
     },
     "attributes": [{
