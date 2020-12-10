@@ -1,156 +1,233 @@
 {
-   "0":{
-      "name":"Scout",
-      "description":"blabla.",
-      "background_color":"f3f2f3",
-      "external_url":"",
-      "supply":"100",
-      "image":{
-         "frame":"rare",
-         "model":"explorer",
-         "background":"human"
+  "0": {
+    "name": "Jumper",
+    "description": "blabla.",
+    "background_color": "f3f2f3",
+    "external_url": "",
+    "supply": "100",
+    "image": {
+      "frame": "common",
+      "model": "jumper",
+      "background": "human"
+    },
+    "attributes": [{
+        "trait_type": "scarcity",
+        "value": "Common"
       },
-      "attributes":[
-         {
-            "trait_type":"scarcity",
-            "value":"Rare"
-         },
-         {
-            "trait_type":"race",
-            "value":"Human"
-         }
-      ]
-   },
-   "1":{
-      "name":"Explorer",
-      "supply":"100",
-      "description":"blabla.",
-      "background_color":"f3f2f3",
-      "external_url":"",
-      "image":{
-         "frame":"legendary",
-         "model":"explorer",
-         "background":"protoss"
+      {
+        "trait_type": "race",
+        "value": "Human"
+      }
+    ]
+  },
+  "1": {
+    "name": "Explorer",
+    "description": "blabla.",
+    "background_color": "f3f2f3",
+    "external_url": "",
+    "supply": "100",
+    "image": {
+      "frame": "common",
+      "model": "explorer",
+      "background": "human"
+    },
+    "attributes": [{
+        "trait_type": "scarcity",
+        "value": "Common"
       },
-      "attributes":[
-         {
-            "trait_type":"scarcity",
-            "value":"Legendary"
-         },
-         {
-            "trait_type":"race",
-            "value":"Protoss"
-         }
-      ]
-   },
-   "2":{
-      "name":"Interceptor",
-      "supply":"100",
-      "description":"blabla.",
-      "background_color":"f3f2f3",
-      "external_url":"",
-      "image":{
-         "frame":"mythical",
-         "model":"explorer",
-         "background":"human"
+      {
+        "trait_type": "race",
+        "value": "Human"
+      }
+    ]
+  },
+  "2": {
+    "name": "Interceptor",
+    "description": "blabla.",
+    "background_color": "f3f2f3",
+    "external_url": "",
+    "supply": "100",
+    "image": {
+      "frame": "rare",
+      "model": "interceptor",
+      "background": "human"
+    },
+    "attributes": [{
+        "trait_type": "scarcity",
+        "value": "Rare"
       },
-      "attributes":[
-         {
-            "trait_type":"scarcity",
-            "value":"Mythical"
-         },
-         {
-            "trait_type":"race",
-            "value":"Human"
-         }
-      ]
-   },
-   "3":{
-      "name":"Drone",
-      "supply":"100",
-      "description":"blabla.",
-      "background_color":"f3f2f3",
-      "external_url":"",
-      "image":{
-         "frame":"common",
-         "model":"explorer",
-         "background":"protoss"
+      {
+        "trait_type": "race",
+        "value": "Human"
+      }
+    ]
+  },
+  "3": {
+    "name": "Battleship",
+    "description": "blabla.",
+    "background_color": "f3f2f3",
+    "external_url": "",
+    "supply": "100",
+    "image": {
+      "frame": "rare",
+      "model": "battleship",
+      "background": "human"
+    },
+    "attributes": [{
+        "trait_type": "scarcity",
+        "value": "Rare"
       },
-      "attributes":[
-         {
-            "trait_type":"scarcity",
-            "value":"Common"
-         },
-         {
-            "trait_type":"race",
-            "value":"Protoss"
-         }
-      ]
-   },
-   "4":{
-      "name":"Cruiser",
-      "supply":"100",
-      "description":"blabla.",
-      "background_color":"f3f2f3",
-      "external_url":"",
-      "image":{
-         "frame":"common",
-         "model":"explorer",
-         "background":"protoss"
+      {
+        "trait_type": "race",
+        "value": "Human"
+      }
+    ]
+  },
+  "4": {
+    "name": "Destroyer",
+    "description": "blabla.",
+    "background_color": "f3f2f3",
+    "external_url": "",
+    "supply": "100",
+    "image": {
+      "frame": "legendary",
+      "model": "destroyer",
+      "background": "human"
+    },
+    "attributes": [{
+        "trait_type": "scarcity",
+        "value": "Legendary"
       },
-      "attributes":[
-         {
-            "trait_type":"scarcity",
-            "value":"Common"
-         },
-         {
-            "trait_type":"race",
-            "value":"Protoss"
-         }
-      ]
-   },
-   "5":{
-      "name":"Scavenger",
-      "supply":"100",
-      "description":"blabla.",
-      "background_color":"f3f2f3",
-      "external_url":"",
-      "image":{
-         "frame":"common",
-         "model":"explorer",
-         "background":"protoss"
+      {
+        "trait_type": "race",
+        "value": "Human"
+      }
+    ]
+  },
+  "5": {
+    "name": "Drone",
+    "description": "blabla.",
+    "background_color": "f3f2f3",
+    "external_url": "",
+    "supply": "100",
+    "image": {
+      "frame": "common",
+      "model": "drone",
+      "background": "bankhor"
+    },
+    "attributes": [{
+        "trait_type": "scarcity",
+        "value": "Common"
       },
-      "attributes":[
-         {
-            "trait_type":"scarcity",
-            "value":"Common"
-         },
-         {
-            "trait_type":"race",
-            "value":"Protoss"
-         }
-      ]
-   },
-   "6":{
-      "name":"Speeder",
-      "supply":"100",
-      "description":"blabla.",
-      "background_color":"f3f2f3",
-      "external_url":"",
-      "image":{
-         "frame":"common",
-         "model":"explorer",
-         "background":"human"
+      {
+        "trait_type": "race",
+        "value": "Ban'Khor"
+      }
+    ]
+  },
+  "6": {
+    "name": "Pacificator",
+    "description": "blabla.",
+    "background_color": "f3f2f3",
+    "external_url": "",
+    "supply": "100",
+    "image": {
+      "frame": "pacificator",
+      "model": "explorer",
+      "background": "bankhor"
+    },
+    "attributes": [{
+        "trait_type": "scarcity",
+        "value": "Common"
       },
-      "attributes":[
-         {
-            "trait_type":"scarcity",
-            "value":"Common"
-         },
-         {
-            "trait_type":"race",
-            "value":"Protoss"
-         }
-      ]
-   }
+      {
+        "trait_type": "race",
+        "value": "Ban'Khor"
+      }
+    ]
+  },
+  "7": {
+    "name": "Vanguard",
+    "description": "blabla.",
+    "background_color": "f3f2f3",
+    "external_url": "",
+    "supply": "100",
+    "image": {
+      "frame": "rare",
+      "model": "vanguard",
+      "background": "bankhor"
+    },
+    "attributes": [{
+        "trait_type": "scarcity",
+        "value": "Rare"
+      },
+      {
+        "trait_type": "race",
+        "value": "Ban'Khor"
+      }
+    ]
+  },
+  "8": {
+    "name": "Judge",
+    "description": "blabla.",
+    "background_color": "f3f2f3",
+    "external_url": "",
+    "supply": "100",
+    "image": {
+      "frame": "rare",
+      "model": "judge",
+      "background": "bankhor"
+    },
+    "attributes": [{
+        "trait_type": "scarcity",
+        "value": "Rare"
+      },
+      {
+        "trait_type": "race",
+        "value": "Ban'Khor"
+      }
+    ]
+  },
+  "9": {
+    "name": "Inquisitor",
+    "description": "blabla.",
+    "background_color": "f3f2f3",
+    "external_url": "",
+    "supply": "100",
+    "image": {
+      "frame": "legendary",
+      "model": "inquisitor",
+      "background": "bankhor"
+    },
+    "attributes": [{
+        "trait_type": "scarcity",
+        "value": "Legendary"
+      },
+      {
+        "trait_type": "race",
+        "value": "Ban'Khor"
+      }
+    ]
+  },
+  "10": {
+    "name": "Sunriser",
+    "description": "blabla.",
+    "background_color": "f3f2f3",
+    "external_url": "",
+    "supply": "100",
+    "image": {
+      "frame": "mythical",
+      "model": "inquisitor",
+      "background": "creator"
+    },
+    "attributes": [{
+        "trait_type": "scarcity",
+        "value": "Mythical"
+      },
+      {
+        "trait_type": "race",
+        "value": "Creator"
+      }
+    ]
+  }
 }
