@@ -1,7 +1,7 @@
 {
   "1": {
     "name": "Jumper",
-    "description": "blabla.",
+    "description": "",
     "collection": "genesis",
     "background_color": "f3f2f3",
     "external_url": "",
@@ -24,7 +24,7 @@
   },
   "2": {
     "name": "Explorer",
-    "description": "blabla.",
+    "description": "",
     "collection": "genesis",
     "background_color": "f3f2f3",
     "external_url": "",
@@ -47,7 +47,7 @@
   },
   "3": {
     "name": "Interceptor",
-    "description": "blabla.",
+    "description": "",
     "collection": "genesis",
     "background_color": "f3f2f3",
     "external_url": "",
@@ -70,7 +70,7 @@
   },
   "4": {
     "name": "Battleship",
-    "description": "blabla.",
+    "description": "",
     "collection": "genesis",
     "background_color": "f3f2f3",
     "external_url": "",
@@ -93,7 +93,7 @@
   },
   "5": {
     "name": "Destroyer",
-    "description": "blabla.",
+    "description": "",
     "collection": "genesis",
     "background_color": "f3f2f3",
     "external_url": "",
@@ -116,7 +116,7 @@
   },
   "6": {
     "name": "Drone",
-    "description": "blabla.",
+    "description": "",
     "collection": "genesis",
     "background_color": "f3f2f3",
     "external_url": "",
@@ -139,7 +139,7 @@
   },
   "7": {
     "name": "Pacificator",
-    "description": "blabla.",
+    "description": "",
     "collection": "genesis",
     "background_color": "f3f2f3",
     "external_url": "",
@@ -162,7 +162,7 @@
   },
   "8": {
     "name": "Vanguard",
-    "description": "blabla.",
+    "description": "",
     "collection": "genesis",
     "background_color": "f3f2f3",
     "external_url": "",
@@ -185,7 +185,7 @@
   },
   "9": {
     "name": "Judge",
-    "description": "blabla.",
+    "description": "",
     "collection": "genesis",
     "background_color": "f3f2f3",
     "external_url": "",
@@ -208,7 +208,7 @@
   },
   "10": {
     "name": "Inquisitor",
-    "description": "blabla.",
+    "description": "",
     "collection": "genesis",
     "background_color": "f3f2f3",
     "external_url": "",
@@ -231,7 +231,7 @@
   },
   "11": {
     "name": "Sunriser",
-    "description": "blabla.",
+    "description": "",
     "collection": "genesis",
     "background_color": "f3f2f3",
     "external_url": "",
