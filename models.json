@@ -1,4 +1,27 @@
 {
+  "0": {
+    "name": "Lakhdar",
+    "description": "",
+    "collection": "genesis",
+    "background_color": "f3f2f3",
+    "external_url": "",
+    "supply": "1000",
+    "race": "Human",
+    "image": {
+      "frame": "common",
+      "model": "jumper",
+      "background": "human"
+    },
+    "attributes": [{
+        "trait_type": "scarcity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "race",
+        "value": "Human"
+      }
+    ]
+  },
   "1": {
     "name": "Jumper",
     "description": "",
