@@ -1,5 +1,5 @@
 {
-  "0": {
+  "1": {
     "name": "Jumper",
     "description": "blabla.",
     "collection": "genesis",
@@ -22,7 +22,7 @@
       }
     ]
   },
-  "1": {
+  "2": {
     "name": "Explorer",
     "description": "blabla.",
     "collection": "genesis",
@@ -45,7 +45,7 @@
       }
     ]
   },
-  "2": {
+  "3": {
     "name": "Interceptor",
     "description": "blabla.",
     "collection": "genesis",
@@ -68,7 +68,7 @@
       }
     ]
   },
-  "3": {
+  "4": {
     "name": "Battleship",
     "description": "blabla.",
     "collection": "genesis",
@@ -91,7 +91,7 @@
       }
     ]
   },
-  "4": {
+  "5": {
     "name": "Destroyer",
     "description": "blabla.",
     "collection": "genesis",
@@ -114,7 +114,7 @@
       }
     ]
   },
-  "5": {
+  "6": {
     "name": "Drone",
     "description": "blabla.",
     "collection": "genesis",
@@ -137,7 +137,7 @@
       }
     ]
   },
-  "6": {
+  "7": {
     "name": "Pacificator",
     "description": "blabla.",
     "collection": "genesis",
@@ -160,7 +160,7 @@
       }
     ]
   },
-  "7": {
+  "8": {
     "name": "Vanguard",
     "description": "blabla.",
     "collection": "genesis",
@@ -183,7 +183,7 @@
       }
     ]
   },
-  "8": {
+  "9": {
     "name": "Judge",
     "description": "blabla.",
     "collection": "genesis",
@@ -206,7 +206,7 @@
       }
     ]
   },
-  "9": {
+  "10": {
     "name": "Inquisitor",
     "description": "blabla.",
     "collection": "genesis",
@@ -229,7 +229,7 @@
       }
     ]
   },
-  "10": {
+  "11": {
     "name": "Sunriser",
     "description": "blabla.",
     "collection": "genesis",
