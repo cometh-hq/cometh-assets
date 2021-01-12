@@ -1,30 +1,7 @@
 {
-  "0": {
-    "name": "Lakhdar",
-    "description": "",
-    "collection": "genesis",
-    "background_color": "f3f2f3",
-    "external_url": "",
-    "supply": "1000",
-    "race": "Human",
-    "image": {
-      "frame": "common",
-      "model": "jumper",
-      "background": "human"
-    },
-    "attributes": [{
-        "trait_type": "scarcity",
-        "value": "Common"
-      },
-      {
-        "trait_type": "race",
-        "value": "Human"
-      }
-    ]
-  },
   "1": {
     "name": "Jumper",
-    "description": "",
+    "description": "The jumper is the most common spaceship in the Human. It was first introduced during the failed terraforming of Saturn where it demonstrated its mining ability on the planet’s rings. In addition to being Enduring and indulgent on pilots mistake, there is no garage in the galaxy that can’t repair a Jumper. This vessel will probably still be harnessing MUST in a millenia.",
     "collection": "genesis",
     "background_color": "f3f2f3",
     "external_url": "",
@@ -47,7 +24,7 @@
   },
   "2": {
     "name": "Explorer",
-    "description": "",
+    "description": "Initially designed for long distance travel at a time where humanity was bound find new resources to survive, the Explorer proved perfect for the exploitation of long period asteroids. It features a small windowed deck but a vast interior usually equipped with all necessary amenities to kill time from bilboquet to vintage bugged kernels.",
     "collection": "genesis",
     "background_color": "f3f2f3",
     "external_url": "",
@@ -69,21 +46,21 @@
     ]
   },
   "3": {
-    "name": "Interceptor",
-    "description": "",
+    "name": "Prospector",
+    "description": "As a modern and better conceived version of the Explorer, the Prospector can house a larger crew and offers very comfortable living conditions. The hull made of layered ionized titanium plates that recall the tiled roofs of ancient buildings in Asia. Crew members typically take turn to hibernate and to maintain the Bussard ramjets. This vessel is built to last and hoard MUST.",
     "collection": "genesis",
     "background_color": "f3f2f3",
     "external_url": "",
     "supply": "100",
     "race": "Human",
     "image": {
-      "frame": "rare",
-      "model": "interceptor",
+      "frame": "uncommon",
+      "model": "prospector",
       "background": "human"
     },
     "attributes": [{
         "trait_type": "scarcity",
-        "value": "Rare"
+        "value": "Uncommon"
       },
       {
         "trait_type": "race",
@@ -92,21 +69,21 @@
     ]
   },
   "4": {
-    "name": "Battleship",
-    "description": "",
+    "name": "Pioneer",
+    "description": "Is there any corner of the Milky Way a Pioneer can’t reach? Probably not. The single thruster propulsion relies on pulsated photon on a middle sized unobtanium ore which guarantee the highest standard in durability and manoeuvrability. Drills are conveniently placed in the bottom wings for quick mining adjustment. Scarcity of unotanium is the only reason why not everybody is flying in a Pioneer.",
     "collection": "genesis",
     "background_color": "f3f2f3",
     "external_url": "",
     "supply": "100",
     "race": "Human",
     "image": {
-      "frame": "rare",
-      "model": "battleship",
+      "frame": "uncommon",
+      "model": "pioneer",
       "background": "human"
     },
     "attributes": [{
         "trait_type": "scarcity",
-        "value": "Rare"
+        "value": "Uncommon"
       },
       {
         "trait_type": "race",
@@ -115,21 +92,21 @@
     ]
   },
   "5": {
-    "name": "Destroyer",
-    "description": "",
+    "name": "Space Digger",
+    "description": "Fast and noisy, the Space Digger sounds like a never ending allegro concerto in a flying cathedral. The main thruster is powered by a naturally aspirated dark matter fueled engine. Assembly of such drives is so incredibly complicated that it is a true miracle the Human managed to produce ten of them. The two midsized Bussard ramjets on the sides allow incredibly quick positioning. When it diggs the space trembles over several parsecs.",
     "collection": "genesis",
     "background_color": "f3f2f3",
     "external_url": "",
     "supply": "10",
     "race": "Human",
     "image": {
-      "frame": "legendary",
-      "model": "destroyer",
+      "frame": "rare",
+      "model": "spacedigger",
       "background": "human"
     },
     "attributes": [{
         "trait_type": "scarcity",
-        "value": "Legendary"
+        "value": "Rare"
       },
       {
         "trait_type": "race",
@@ -139,16 +116,16 @@
   },
   "6": {
     "name": "Drone",
-    "description": "",
+    "description": "The Drone is the new generation of Al’Ong astrominers set the replace the mass produced Pathfinder as time goes. This spaceship takes successful features of its predecessors and add a couple of technological development. Easy to handle at high or low speed, its large windowed deck offers a 360 vision on nearby objects. Both a great vessel to start with a great to addition to a mining armada.",
     "collection": "genesis",
     "background_color": "f3f2f3",
     "external_url": "",
     "supply": "1000",
-    "race": "Ban'Khor",
+    "race": "Al'Ong",
     "image": {
       "frame": "common",
       "model": "drone",
-      "background": "bankhor"
+      "background": "along"
     },
     "attributes": [{
         "trait_type": "scarcity",
@@ -156,22 +133,22 @@
       },
       {
         "trait_type": "race",
-        "value": "Ban'Khor"
+        "value": "Al'Ong"
       }
     ]
   },
   "7": {
-    "name": "Pacificator",
-    "description": "",
+    "name": "Pathfinder",
+    "description": "The Pathfinder represents the grammar of Al’Ong classic design principles. The spaceship has two independent thrusters for precise trajectory adjustment. Most Al’Ong pilots pass their license to fly on a Pathfinder and spare parts are easy to find. All in all this is a robust spacecraft that will undoubtedly outlive its owner.",
     "collection": "genesis",
     "background_color": "f3f2f3",
     "external_url": "",
     "supply": "1000",
-    "race": "Ban'Khor",
+    "race": "Al'Ong",
     "image": {
       "frame": "common",
-      "model": "pacificator",
-      "background": "bankhor"
+      "model": "pathfinder",
+      "background": "along"
     },
     "attributes": [{
         "trait_type": "scarcity",
@@ -179,45 +156,68 @@
       },
       {
         "trait_type": "race",
-        "value": "Ban'Khor"
+        "value": "Al'Ong"
       }
     ]
   },
   "8": {
     "name": "Vanguard",
-    "description": "",
+    "description": "Manoeuvrable and quick, beneath its round bodywork lays a roaring magnetic resonance engine making the Vanguard the dream astrominer of any Al’Ong kid. Awarded Best Spaceship Of The Epoch for five consecutive year by the Intergalactic Mining Association, there’s no need to slap on hull to convince anyone that this bad boy can fit so much MUST in it. Too bad the production as such small batches.",
     "collection": "genesis",
     "background_color": "f3f2f3",
     "external_url": "",
     "supply": "100",
-    "race": "Ban'Khor",
+    "race": "Al'Ong",
     "image": {
-      "frame": "rare",
+      "frame": "uncommon",
       "model": "vanguard",
-      "background": "bankhor"
+      "background": "along"
     },
     "attributes": [{
         "trait_type": "scarcity",
-        "value": "Rare"
+        "value": "Uncommon"
       },
       {
         "trait_type": "race",
-        "value": "Ban'Khor"
+        "value": "Al'Ong"
       }
     ]
   },
   "9": {
-    "name": "Judge",
-    "description": "",
+    "name": "Handshaker",
+    "description": "Pragmatic and efficient, the Handshaker is Al’Ong engineering at its best. This vessel is capable of smoothly anchoring itself to any object whatever its speed, size or crumbliness. The single thruster delivers its torque with such balance that its pilot can feel like being grabbing MUST at all time, hence the name Handshaker.",
     "collection": "genesis",
     "background_color": "f3f2f3",
     "external_url": "",
     "supply": "100",
-    "race": "Ban'Khor",
+    "race": "Al'Ong",
+    "image": {
+      "frame": "uncommon",
+      "model": "handshaker",
+      "background": "along"
+    },
+    "attributes": [{
+        "trait_type": "scarcity",
+        "value": "Uncommon"
+      },
+      {
+        "trait_type": "race",
+        "value": "Al'Ong"
+      }
+    ]
+  },
+  "10": {
+    "name": "Senator",
+    "description": "Ingeniously conceived with inspiration from the few Titan astrominers the Al’Ong have ever been able to witness, a Senator remains very rare due to its complexity. This vessel is said to be powered by a MUST Quantum entanglement engine tying all Senators together. A remarkable hydraulic flap helps the pulling and mining maneuvers. Under the hull a visitor can expect an opulent interior accumulated over years of mining activities.",
+    "collection": "genesis",
+    "background_color": "f3f2f3",
+    "external_url": "",
+    "supply": "10",
+    "race": "Al'Ong",
     "image": {
       "frame": "rare",
-      "model": "judge",
-      "background": "bankhor"
+      "model": "senator",
+      "background": "along"
     },
     "attributes": [{
         "trait_type": "scarcity",
@@ -225,30 +225,7 @@
       },
       {
         "trait_type": "race",
-        "value": "Ban'Khor"
-      }
-    ]
-  },
-  "10": {
-    "name": "Inquisitor",
-    "description": "",
-    "collection": "genesis",
-    "background_color": "f3f2f3",
-    "external_url": "",
-    "supply": "10",
-    "race": "Ban'Khor",
-    "image": {
-      "frame": "legendary",
-      "model": "inquisitor",
-      "background": "bankhor"
-    },
-    "attributes": [{
-        "trait_type": "scarcity",
-        "value": "Legendary"
-      },
-      {
-        "trait_type": "race",
-        "value": "Ban'Khor"
+        "value": "Al'Ong"
       }
     ]
   },
@@ -259,19 +236,19 @@
     "background_color": "f3f2f3",
     "external_url": "",
     "supply": "3",
-    "race": "Creator",
+    "race": "Titan",
     "image": {
-      "frame": "mythical",
+      "frame": "mythic",
       "model": "sunriser",
-      "background": "creator"
+      "background": "titan"
     },
     "attributes": [{
         "trait_type": "scarcity",
-        "value": "Mythical"
+        "value": "Mythic"
       },
       {
         "trait_type": "race",
-        "value": "Creator"
+        "value": "Titan"
       }
     ]
   }
