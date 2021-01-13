@@ -12,7 +12,9 @@
       "model": "jumper",
       "background": "human"
     },
-    "scarcity": "Common"
+    "scarcity": "Common",
+    "available": true,
+    "opensea": false
   },
   "2": {
     "name": "Explorer",
@@ -27,7 +29,9 @@
       "model": "explorer",
       "background": "human"
     },
-    "scarcity": "Common"
+    "scarcity": "Common",
+    "available": false,
+    "opensea": false
   },
   "3": {
     "name": "Prospector",
@@ -42,7 +46,9 @@
       "model": "prospector",
       "background": "human"
     },
-    "scarcity": "Uncommon"
+    "scarcity": "Uncommon",
+    "available": true,
+    "opensea": false
   },
   "4": {
     "name": "Pioneer",
@@ -57,7 +63,9 @@
       "model": "pioneer",
       "background": "human"
     },
-    "scarcity": "Uncommon"
+    "scarcity": "Uncommon",
+    "available": false,
+    "opensea": false
   },
   "5": {
     "name": "Space Digger",
@@ -72,7 +80,9 @@
       "model": "spacedigger",
       "background": "human"
     },
-    "scarcity": "Rare"
+    "scarcity": "Rare",
+    "available": false,
+    "opensea": false
   },
   "6": {
     "name": "Drone",
@@ -87,7 +97,9 @@
       "model": "drone",
       "background": "along"
     },
-    "scarcity": "Common"
+    "scarcity": "Common",
+    "available": false,
+    "opensea": true
   },
   "7": {
     "name": "Pathfinder",
@@ -102,7 +114,9 @@
       "model": "pathfinder",
       "background": "along"
     },
-    "scarcity": "Common"
+    "scarcity": "Common",
+    "available": false,
+    "opensea": false
   },
   "8": {
     "name": "Vanguard",
@@ -117,7 +131,9 @@
       "model": "vanguard",
       "background": "along"
     },
-    "scarcity": "Uncommon"
+    "scarcity": "Uncommon",
+    "available": false,
+    "opensea": true
   },
   "9": {
     "name": "Handshaker",
@@ -132,7 +148,9 @@
       "model": "handshaker",
       "background": "along"
     },
-    "scarcity": "Uncommon"
+    "scarcity": "Uncommon",
+    "available": false,
+    "opensea": false
   },
   "10": {
     "name": "Senator",
@@ -147,7 +165,9 @@
       "model": "senator",
       "background": "along"
     },
-    "scarcity": "Rare"
+    "scarcity": "Rare",
+    "available": false,
+    "opensea": false
   },
   "11": {
     "name": "Sunriser",
@@ -162,6 +182,8 @@
       "model": "sunriser",
       "background": "titan"
     },
-    "scarcity": "Mythic"
+    "scarcity": "Mythic",
+    "available": false,
+    "opensea": false
   }
 }
