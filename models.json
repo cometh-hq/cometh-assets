@@ -12,15 +12,7 @@
       "model": "jumper",
       "background": "human"
     },
-    "attributes": [{
-        "trait_type": "scarcity",
-        "value": "Common"
-      },
-      {
-        "trait_type": "race",
-        "value": "Human"
-      }
-    ]
+    "scarcity": "Common"
   },
   "2": {
     "name": "Explorer",
@@ -35,15 +27,7 @@
       "model": "explorer",
       "background": "human"
     },
-    "attributes": [{
-        "trait_type": "scarcity",
-        "value": "Common"
-      },
-      {
-        "trait_type": "race",
-        "value": "Human"
-      }
-    ]
+    "scarcity": "Common"
   },
   "3": {
     "name": "Prospector",
@@ -58,15 +42,7 @@
       "model": "prospector",
       "background": "human"
     },
-    "attributes": [{
-        "trait_type": "scarcity",
-        "value": "Uncommon"
-      },
-      {
-        "trait_type": "race",
-        "value": "Human"
-      }
-    ]
+    "scarcity": "Uncommon"
   },
   "4": {
     "name": "Pioneer",
@@ -81,15 +57,7 @@
       "model": "pioneer",
       "background": "human"
     },
-    "attributes": [{
-        "trait_type": "scarcity",
-        "value": "Uncommon"
-      },
-      {
-        "trait_type": "race",
-        "value": "Human"
-      }
-    ]
+    "scarcity": "Uncommon"
   },
   "5": {
     "name": "Space Digger",
@@ -104,15 +72,7 @@
       "model": "spacedigger",
       "background": "human"
     },
-    "attributes": [{
-        "trait_type": "scarcity",
-        "value": "Rare"
-      },
-      {
-        "trait_type": "race",
-        "value": "Human"
-      }
-    ]
+    "scarcity": "Rare"
   },
   "6": {
     "name": "Drone",
@@ -127,15 +87,7 @@
       "model": "drone",
       "background": "along"
     },
-    "attributes": [{
-        "trait_type": "scarcity",
-        "value": "Common"
-      },
-      {
-        "trait_type": "race",
-        "value": "Al'Ong"
-      }
-    ]
+    "scarcity": "Common"
   },
   "7": {
     "name": "Pathfinder",
@@ -150,15 +102,7 @@
       "model": "pathfinder",
       "background": "along"
     },
-    "attributes": [{
-        "trait_type": "scarcity",
-        "value": "Common"
-      },
-      {
-        "trait_type": "race",
-        "value": "Al'Ong"
-      }
-    ]
+    "scarcity": "Common"
   },
   "8": {
     "name": "Vanguard",
@@ -173,15 +117,7 @@
       "model": "vanguard",
       "background": "along"
     },
-    "attributes": [{
-        "trait_type": "scarcity",
-        "value": "Uncommon"
-      },
-      {
-        "trait_type": "race",
-        "value": "Al'Ong"
-      }
-    ]
+    "scarcity": "Uncommon"
   },
   "9": {
     "name": "Handshaker",
@@ -196,15 +132,7 @@
       "model": "handshaker",
       "background": "along"
     },
-    "attributes": [{
-        "trait_type": "scarcity",
-        "value": "Uncommon"
-      },
-      {
-        "trait_type": "race",
-        "value": "Al'Ong"
-      }
-    ]
+    "scarcity": "Uncommon"
   },
   "10": {
     "name": "Senator",
@@ -219,15 +147,7 @@
       "model": "senator",
       "background": "along"
     },
-    "attributes": [{
-        "trait_type": "scarcity",
-        "value": "Rare"
-      },
-      {
-        "trait_type": "race",
-        "value": "Al'Ong"
-      }
-    ]
+    "scarcity": "Rare"
   },
   "11": {
     "name": "Sunriser",
@@ -242,14 +162,6 @@
       "model": "sunriser",
       "background": "titan"
     },
-    "attributes": [{
-        "trait_type": "scarcity",
-        "value": "Mythic"
-      },
-      {
-        "trait_type": "race",
-        "value": "Titan"
-      }
-    ]
+    "scarcity": "Mythic"
   }
 }
