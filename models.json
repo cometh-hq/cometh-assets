@@ -48,7 +48,7 @@
     },
     "scarcity": "Uncommon",
     "available": false,
-    "opensea": false
+    "opensea": true
   },
   "4": {
     "name": "Pioneer",
