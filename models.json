@@ -150,7 +150,7 @@
     },
     "scarcity": "Uncommon",
     "available": false,
-    "opensea": false
+    "opensea": true
   },
   "10": {
     "name": "Senator",
