@@ -82,7 +82,7 @@
     },
     "scarcity": "Rare",
     "available": false,
-    "opensea": false
+    "opensea": true
   },
   "6": {
     "name": "Drone",
