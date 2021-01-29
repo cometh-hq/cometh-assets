@@ -171,11 +171,7 @@
   },
   "11": {
     "name": "Sunriser",
-    "description": ">Endlessly dark skies,
-MUST towards gravity falls,
-Where Suns also rise.
-
-Only one spaceship, a Jumper, is known to have ever been pulled by Sunriser and those 3 lines where decrypted from the console logs of the vessel. Speculations are endless on the true purpose and value of the Sunriser.",
+    "description": "<blockquote>Endlessly dark skies,<br/>MUST towards gravity falls,<br/>Where Suns also rise.</blockquote><br/>Only one spaceship, a Jumper, is known to have ever been pulled by Sunriser and those 3 lines where decrypted from the console logs of the vessel. Speculations are endless on the true purpose and value of the Sunriser.",
     "collection": "genesis",
     "background_color": "f3f2f3",
     "external_url": "",
