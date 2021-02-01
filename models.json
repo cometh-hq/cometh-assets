@@ -271,6 +271,74 @@
     "available": false,
     "opensea": false
   },
+  "17": {
+    "name": "Nomad",
+    "description": "",
+    "collection": "meme",
+    "background_color": "f3f2f3",
+    "external_url": "",
+    "supply": "50",
+    "race": "Rez",
+    "image": {
+      "frame": "common",
+      "model": "nomad",
+      "background": "rez1"
+    },
+    "scarcity": "common",
+    "available": false,
+    "opensea": false
+  },
+  "18": {
+    "name": "Netrunner",
+    "description": "",
+    "collection": "meme",
+    "background_color": "f3f2f3",
+    "external_url": "",
+    "supply": "10",
+    "race": "Rez",
+    "image": {
+      "frame": "uncommon",
+      "model": "netrunner",
+      "background": "rez2"
+    },
+    "scarcity": "uncommon",
+    "available": false,
+    "opensea": false
+  },
+  "19": {
+    "name": "Highrider",
+    "description": "",
+    "collection": "meme",
+    "background_color": "f3f2f3",
+    "external_url": "",
+    "supply": "5",
+    "race": "Rez",
+    "image": {
+      "frame": "rare",
+      "model": "highrider",
+      "background": "rez3"
+    },
+    "scarcity": "rare",
+    "available": false,
+    "opensea": false
+  },
+  "20": {
+    "name": "Apogee",
+    "description": "",
+    "collection": "meme",
+    "background_color": "f3f2f3",
+    "external_url": "",
+    "supply": "1",
+    "race": "Rez",
+    "image": {
+      "frame": "mythic",
+      "model": "apogee",
+      "background": "rez4"
+    },
+    "scarcity": "mythic",
+    "available": false,
+    "opensea": false
+  },
   "21": {
     "name": "Journey to the West",
     "description": "",
