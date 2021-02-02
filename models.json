@@ -253,5 +253,22 @@
     "scarcity": "Mythic",
     "available": false,
     "opensea": false
+  },
+  "16": {
+    "name": "Petrack",
+    "description": "The formation of those vessels are still very badly understood. The main hypothesis is that in some ways the MUST or some of life forms it carries manage to take over another spaceship after years of harvesting. Whether it is a galactic virus or interstellar decay, it doesn’t deter anyone from mining. Infected spaceships barely communicate with standard procedures. Humans call them Petra, Rez say Pet Rock, most people settle on Petrack.",
+    "collection": "genesis",
+    "background_color": "f3f2f3",
+    "external_url": "",
+    "supply": "100",
+    "race": "Asterion",
+    "image": {
+      "frame": "uncommon",
+      "model": "petrack",
+      "background": "asterion"
+    },
+    "scarcity": "Uncommon",
+    "available": false,
+    "opensea": false
   }
 }
