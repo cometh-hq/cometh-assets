@@ -185,5 +185,73 @@
     "scarcity": "Mythic",
     "available": false,
     "opensea": false
+  },
+  "12": {
+    "name": "Auditor",
+    "description": "Quick, ergonomic, easy to park and efficient at harvesting, the Auditor is a marvel although the spaceship is quite common among the Treasurers. The Auditor is perfect for exploratory mission and mining opportunity assessment. The hull is made out of plexinium, a vibration resistant alloy the Treasures conceived as a cheaper version of gundamium. A turbocharged high performance scramjet completes the model.",
+    "collection": "liquidity provider",
+    "background_color": "f3f2f3",
+    "external_url": "",
+    "supply": "300",
+    "race": "Treasurers",
+    "image": {
+      "frame": "common",
+      "model": "auditor",
+      "background": "treasurers"
+    },
+    "scarcity": "Common",
+    "available": false,
+    "opensea": false
+  },
+  "13": {
+    "name": "Comptroller",
+    "description": "Neither a controller nor a computer, a comptroller carries a computational power similar to a small Rez ship combined with the sturdiness and reliability of Treasurer engineering. A comptroller is capable of vibrationless gravitational slingshots as well as rapid asteroid approach. The mining gears have exceptional reputations, it’s said there is no spare parts for the mandresl: they never break.",
+    "collection": "liquidity provider",
+    "background_color": "f3f2f3",
+    "external_url": "",
+    "supply": "80",
+    "race": "Treasurers",
+    "image": {
+      "frame": "uncommon",
+      "model": "comptroller",
+      "background": "treasurers"
+    },
+    "scarcity": "Uncommon",
+    "available": false,
+    "opensea": false
+  },
+  "14": {
+    "name": "Enforcer",
+    "description": "Exceptionally crafted with gundamium and tempered plexinium, strictly limited and blessed with unbelievable driving dynamics, the Enforcer is simply mind blowing. Two turbocharged high performance scramjets assist two Quantum vacuum thrusters, the quartet melody is only matched by the piling up of mined MUST in the sumptuous and cosy interior. Fly an Enforcer and you will never fly anything else.",
+    "collection": "liquidity provider",
+    "background_color": "f3f2f3",
+    "external_url": "",
+    "supply": "15",
+    "race": "Treasurers",
+    "image": {
+      "frame": "rare",
+      "model": "enforcer",
+      "background": "treasurers"
+    },
+    "scarcity": "Rare",
+    "available": false,
+    "opensea": false
+  },
+  "15": {
+    "name": "Chancellor",
+    "description": "",
+    "collection": "liquidity provider",
+    "background_color": "f3f2f3",
+    "external_url": "",
+    "supply": "5",
+    "race": "Treasurers",
+    "image": {
+      "frame": "mythic",
+      "model": "chancellor",
+      "background": "treasurers"
+    },
+    "scarcity": "Mythic",
+    "available": false,
+    "opensea": false
   }
 }
