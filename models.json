@@ -271,6 +271,74 @@
     "available": false,
     "opensea": false
   },
+  "21": {
+    "name": "Journey to the West",
+    "description": "",
+    "collection": "chinese new year",
+    "background_color": "f3f2f3",
+    "external_url": "",
+    "supply": "777",
+    "race": "Tianzi",
+    "image": {
+      "frame": "common",
+      "model": "journeytothewest",
+      "background": "tianzi"
+    },
+    "scarcity": "Common",
+    "available": false,
+    "opensea": false
+  },
+  "22": {
+    "name": "Earthly Demons",
+    "description": "",
+    "collection": "chinese new year",
+    "background_color": "f3f2f3",
+    "external_url": "",
+    "supply": "72",
+    "race": "Tianzi",
+    "image": {
+      "frame": "uncommon",
+      "model": "earthlydemons",
+      "background": "tianzi"
+    },
+    "scarcity": "Uncommon",
+    "available": false,
+    "opensea": false
+  },
+  "23": {
+    "name": "Heavenly Spirits",
+    "description": "",
+    "collection": "chinese new year",
+    "background_color": "f3f2f3",
+    "external_url": "",
+    "supply": "36",
+    "race": "Tianzi",
+    "image": {
+      "frame": "rare",
+      "model": "heavenlyspirits",
+      "background": "tianzi"
+    },
+    "scarcity": "Rare",
+    "available": false,
+    "opensea": false
+  },
+  "24": {
+    "name": "Three Kingdoms",
+    "description": "",
+    "collection": "chinese new year",
+    "background_color": "f3f2f3",
+    "external_url": "",
+    "supply": "3",
+    "race": "Tianzi",
+    "image": {
+      "frame": "mythic",
+      "model": "threekingdoms",
+      "background": "tianzi"
+    },
+    "scarcity": "Mythic",
+    "available": false,
+    "opensea": false
+  },
   "mystery" : {
     "name": "mystery",
     "description": "",
