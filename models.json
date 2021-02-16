@@ -270,5 +270,22 @@
     "scarcity": "Uncommon",
     "available": false,
     "opensea": false
+  },
+  "mystery" : {
+    "name": "mystery",
+    "description": "",
+    "collection": "chinese new year",
+    "background_color": "f3f2f3",
+    "external_url": "",
+    "supply": "2664",
+    "race": "Tianzi",
+    "image": {
+      "frame": "mystery",
+      "model": "",
+      "background": "tianzi"
+    },
+    "scarcity": "Uncommon",
+    "available": false,
+    "opensea": false
   }
 }
