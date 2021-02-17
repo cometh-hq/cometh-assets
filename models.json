@@ -13,8 +13,8 @@
       "background": "human"
     },
     "scarcity": "Common",
-    "available": true,
-    "opensea": false
+    "primary": "#9f9e8a",
+    "extra": "#007bff"
   },
   "2": {
     "name": "Explorer",
@@ -30,8 +30,8 @@
       "background": "human"
     },
     "scarcity": "Common",
-    "available": false,
-    "opensea": false
+    "primary": "#9f9e8a",
+    "extra": "#007bff"
   },
   "3": {
     "name": "Prospector",
@@ -47,8 +47,8 @@
       "background": "human"
     },
     "scarcity": "Uncommon",
-    "available": false,
-    "opensea": true
+    "primary": "#9f9e8a",
+    "extra": "#007bff"
   },
   "4": {
     "name": "Pioneer",
@@ -64,8 +64,8 @@
       "background": "human"
     },
     "scarcity": "Uncommon",
-    "available": true,
-    "opensea": false
+    "primary": "#9f9e8a",
+    "extra": "#007bff"
   },
   "5": {
     "name": "Space Digger",
@@ -81,8 +81,8 @@
       "background": "human"
     },
     "scarcity": "Rare",
-    "available": false,
-    "opensea": true
+    "primary": "#9f9e8a",
+    "extra": "#007bff"
   },
   "6": {
     "name": "Drone",
@@ -98,8 +98,8 @@
       "background": "along"
     },
     "scarcity": "Common",
-    "available": false,
-    "opensea": true
+    "primary": "#289fdb",
+    "extra": "#ffbf00"
   },
   "7": {
     "name": "Pathfinder",
@@ -115,8 +115,8 @@
       "background": "along"
     },
     "scarcity": "Common",
-    "available": true,
-    "opensea": false
+    "primary": "#289fdb",
+    "extra": "#ffbf00"
   },
   "8": {
     "name": "Vanguard",
@@ -132,8 +132,8 @@
       "background": "along"
     },
     "scarcity": "Uncommon",
-    "available": false,
-    "opensea": true
+    "primary": "#289fdb",
+    "extra": "#ffbf00"
   },
   "9": {
     "name": "Handshaker",
@@ -149,8 +149,8 @@
       "background": "along"
     },
     "scarcity": "Uncommon",
-    "available": false,
-    "opensea": true
+    "primary": "#289fdb",
+    "extra": "#ffbf00"
   },
   "10": {
     "name": "Senator",
@@ -166,8 +166,8 @@
       "background": "along"
     },
     "scarcity": "Rare",
-    "available": false,
-    "opensea": false
+    "primary": "#289fdb",
+    "extra": "#ffbf00"
   },
   "11": {
     "name": "Sunriser",
@@ -183,8 +183,8 @@
       "background": "titan"
     },
     "scarcity": "Mythic",
-    "available": false,
-    "opensea": false
+    "primary": "#b3b316",
+    "extra": "#359aff"
   },
   "12": {
     "name": "Auditor",
@@ -200,8 +200,8 @@
       "background": "treasurers"
     },
     "scarcity": "Common",
-    "available": false,
-    "opensea": false
+    "primary": "#5B4E64",
+    "extra": "#0085A3"
   },
   "13": {
     "name": "Comptroller",
@@ -217,8 +217,8 @@
       "background": "treasurers"
     },
     "scarcity": "Uncommon",
-    "available": false,
-    "opensea": false
+    "primary": "#5B4E64",
+    "extra": "#0085A3"
   },
   "14": {
     "name": "Enforcer",
@@ -234,8 +234,8 @@
       "background": "treasurers"
     },
     "scarcity": "Rare",
-    "available": false,
-    "opensea": false
+    "primary": "#5B4E64",
+    "extra": "#0085A3"
   },
   "15": {
     "name": "Chancellor",
@@ -251,8 +251,8 @@
       "background": "treasurers"
     },
     "scarcity": "Mythic",
-    "available": false,
-    "opensea": false
+    "primary": "#5B4E64",
+    "extra": "#0085A3"
   },
   "16": {
     "name": "Petrack",
@@ -268,13 +268,13 @@
       "background": "asterion"
     },
     "scarcity": "Uncommon",
-    "available": false,
-    "opensea": false
+    "primary": "#4C4C4C",
+    "extra": "#00AAFF"
   },
   "17": {
     "name": "Nomad",
     "description": "",
-    "collection": "meme",
+    "collection": "don't buy meme",
     "background_color": "f3f2f3",
     "external_url": "",
     "supply": "50",
@@ -285,13 +285,14 @@
       "background": "rez1"
     },
     "scarcity": "common",
-    "available": false,
-    "opensea": false
+    "primary": "#ffffff",
+    "extra": "#7dc2fb",
+    "invariant": true
   },
   "18": {
     "name": "Netrunner",
     "description": "",
-    "collection": "meme",
+    "collection": "don't buy meme",
     "background_color": "f3f2f3",
     "external_url": "",
     "supply": "10",
@@ -302,13 +303,14 @@
       "background": "rez2"
     },
     "scarcity": "uncommon",
-    "available": false,
-    "opensea": false
+    "primary": "#ae8bff",
+    "extra": "#a0e9fb",
+    "invariant": true
   },
   "19": {
     "name": "Highrider",
     "description": "",
-    "collection": "meme",
+    "collection": "don't buy meme",
     "background_color": "f3f2f3",
     "external_url": "",
     "supply": "5",
@@ -319,13 +321,14 @@
       "background": "rez3"
     },
     "scarcity": "rare",
-    "available": false,
-    "opensea": false
+    "primary": "#c4cce2",
+    "extra": "#bb97ff",
+    "invariant": true
   },
   "20": {
     "name": "Apogee",
     "description": "",
-    "collection": "meme",
+    "collection": "don't buy meme",
     "background_color": "f3f2f3",
     "external_url": "",
     "supply": "1",
@@ -336,8 +339,9 @@
       "background": "rez4"
     },
     "scarcity": "mythic",
-    "available": false,
-    "opensea": false
+    "primary": "#e1a1f8",
+    "extra": "#ffd8ad",
+    "invariant": true
   },
   "21": {
     "name": "Journey to the West",
@@ -353,8 +357,8 @@
       "background": "tianzi"
     },
     "scarcity": "Common",
-    "available": false,
-    "opensea": false
+    "primary": "#6E0106",
+    "extra": "#F8BE53"
   },
   "22": {
     "name": "Earthly Demons",
@@ -370,8 +374,8 @@
       "background": "tianzi"
     },
     "scarcity": "Uncommon",
-    "available": false,
-    "opensea": false
+    "primary": "#6E0106",
+    "extra": "#F8BE53"
   },
   "23": {
     "name": "Heavenly Spirits",
@@ -387,8 +391,8 @@
       "background": "tianzi"
     },
     "scarcity": "Rare",
-    "available": false,
-    "opensea": false
+    "primary": "#6E0106",
+    "extra": "#F8BE53"
   },
   "24": {
     "name": "Three Kingdoms",
@@ -404,8 +408,8 @@
       "background": "tianzi"
     },
     "scarcity": "Mythic",
-    "available": false,
-    "opensea": false
+    "primary": "#6E0106",
+    "extra": "#F8BE53"
   },
   "mystery" : {
     "name": "mystery",
@@ -421,7 +425,7 @@
       "background": "tianzi"
     },
     "scarcity": "Uncommon",
-    "available": false,
-    "opensea": false
+    "primary": "#6E0106",
+    "extra": "#F8BE53"
   }
 }
