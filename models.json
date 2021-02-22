@@ -411,6 +411,74 @@
     "primary": "#6E0106",
     "extra": "#F8BE53"
   },
+  "25": {
+    "name": "Ghost",
+    "description": "",
+    "collection": "aavegotchi",
+    "background_color": "f3f2f3",
+    "external_url": "",
+    "supply": "200",
+    "race": "Frens",
+    "image": {
+      "frame": "uncommon",
+      "model": "ghost",
+      "background": "frens"
+    },
+    "scarcity": "Uncommon",
+    "primary": "#FCFAFF",
+    "extra": "#FA34F3"
+  },
+  "26": {
+    "name": "Monocle",
+    "description": "",
+    "collection": "aavegotchi",
+    "background_color": "f3f2f3",
+    "external_url": "",
+    "supply": "200",
+    "race": "Frens",
+    "image": {
+      "frame": "uncommon",
+      "model": "monocle",
+      "background": "frens"
+    },
+    "scarcity": "Uncommon",
+    "primary": "#FCFAFF",
+    "extra": "#FA34F3"
+  },
+  "27": {
+    "name": "Bell",
+    "description": "",
+    "collection": "aavegotchi",
+    "background_color": "f3f2f3",
+    "external_url": "",
+    "supply": "10",
+    "race": "Frens",
+    "image": {
+      "frame": "rare",
+      "model": "bell",
+      "background": "frens"
+    },
+    "scarcity": "Rare",
+    "primary": "#FCFAFF",
+    "extra": "#FA34F3"
+  },
+  "28": {
+    "name": "Bonding",
+    "description": "",
+    "collection": "aavegotchi",
+    "background_color": "f3f2f3",
+    "external_url": "",
+    "supply": "1",
+    "race": "Frens",
+    "image": {
+      "frame": "mythic",
+      "model": "bonding",
+      "background": "frens"
+    },
+    "scarcity": "Mythic",
+    "primary": "#FCFAFF",
+    "extra": "#FA34F3"
+  },
   "mystery" : {
     "name": "mystery",
     "description": "",
