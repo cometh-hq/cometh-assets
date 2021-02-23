@@ -412,17 +412,17 @@
     "extra": "#F8BE53"
   },
   "25": {
-    "name": "Ghost",
+    "name": "Fren",
     "description": "",
     "collection": "aavegotchi",
     "background_color": "f3f2f3",
     "external_url": "",
     "supply": "200",
-    "race": "Frens",
+    "race": "Gotchi",
     "image": {
       "frame": "uncommon",
-      "model": "ghost",
-      "background": "frens"
+      "model": "fren",
+      "background": "gotchi"
     },
     "scarcity": "Uncommon",
     "primary": "#FCFAFF",
@@ -435,49 +435,50 @@
     "background_color": "f3f2f3",
     "external_url": "",
     "supply": "200",
-    "race": "Frens",
+    "race": "Gotchi",
     "image": {
       "frame": "uncommon",
       "model": "monocle",
-      "background": "frens"
+      "background": "gotchi"
     },
     "scarcity": "Uncommon",
     "primary": "#FCFAFF",
     "extra": "#FA34F3"
   },
   "27": {
-    "name": "Bell",
+    "name": "Curve",
     "description": "",
     "collection": "aavegotchi",
     "background_color": "f3f2f3",
     "external_url": "",
     "supply": "10",
-    "race": "Frens",
+    "race": "Gotchi",
     "image": {
       "frame": "rare",
-      "model": "bell",
-      "background": "frens"
+      "model": "curve",
+      "background": "gotchi"
     },
     "scarcity": "Rare",
     "primary": "#FCFAFF",
     "extra": "#FA34F3"
   },
   "28": {
-    "name": "Bonding",
+    "name": "GHST",
     "description": "",
     "collection": "aavegotchi",
     "background_color": "f3f2f3",
     "external_url": "",
     "supply": "1",
-    "race": "Frens",
+    "race": "Gotchi",
     "image": {
       "frame": "mythic",
-      "model": "bonding",
-      "background": "frens"
+      "model": "ghst",
+      "background": "gotchi"
     },
     "scarcity": "Mythic",
     "primary": "#FCFAFF",
-    "extra": "#FA34F3"
+    "extra": "#FA34F3",
+    "invariant": true
   },
   "mystery" : {
     "name": "mystery",
