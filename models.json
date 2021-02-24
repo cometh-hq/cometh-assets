@@ -413,7 +413,7 @@
   },
   "25": {
     "name": "Fren",
-    "description": "“Because it was my Fren; because it was me”. Frens are valued the most among spaceships for the special relation they have with their pilots. Always functional when needs be, a Fren will never let you down. This vessel is not easy to find in the galaxy and is blessed by the saying: “Fren ships multiplies the good of life and divides the evil”",
+    "description": "“Because it was my Fren; because it was me”. Frens are valued the most among spaceships for the special relation they have with their pilots. Always functional when needs be, a Fren will never let you down. This vessel is not easy to find in the galaxy and is blessed by the saying: “Fren ships multiply the good of life and devide the evil”",
     "collection": "aavegotchi",
     "background_color": "f3f2f3",
     "external_url": "",
@@ -480,7 +480,7 @@
     "extra": "#FA34F3",
     "invariant": true
   },
-  "mystery" : {
+  "mystery": {
     "name": "mystery",
     "description": "",
     "collection": "chinese new year",
