@@ -480,6 +480,75 @@
     "extra": "#FA34F3",
     "invariant": true
   },
+  "29": {
+    "name": "Pickle",
+    "description": "Pickle was brined at an early age by a leading federation miner, looking for a new generation of solid all-rounder ships with enough attitude to tackle comets from all angles. It has a streamlined torpedo-like design with three booster engines, flanked by two manoeuvring jets to make sure it’s always well positioned.",
+    "collection": "pickle finance",
+    "background_color": "f3f2f3",
+    "external_url": "",
+    "supply": "50",
+    "race": "Cucurbitaceae",
+    "image": {
+      "frame": "uncommon",
+      "model": "pickle",
+      "background": "Cucurbitaceae"
+    },
+    "scarcity": "Uncommon",
+    "primary": "#14BE0E",
+    "extra": "#EDA200"
+  },
+  "30": {
+    "name": "Slice",
+    "description": "Slice was created following engineering experimentation designed to double the power of the original Pickle design. The result was a ship that delivers exceptional radar range and mining area. It’s not the fastest to reload, but its schizophrenic personality will more than make up for any lethargy.",
+    "collection": "pickle finance",
+    "background_color": "f3f2f3",
+    "external_url": "",
+    "supply": "50",
+    "race": "Cucurbitaceae",
+    "image": {
+      "frame": "uncommon",
+      "model": "slice",
+      "background": "Cucurbitaceae"
+    },
+    "scarcity": "Uncommon",
+    "primary": "#14BE0E",
+    "extra": "#EDA200"
+  },
+  "31": {
+    "name": "Sandwich",
+    "description": "Sandwich was the result of years of development by scientists committed to finding the ultimate all-in-one solution. This ship includes one of the largest single-main-thrusters yet seen across the galaxy. The result is an awesome all-rounder that has great mining power, reasonable cool down and solid coverage.",
+    "collection": "pickle finance",
+    "background_color": "f3f2f3",
+    "external_url": "",
+    "supply": "5",
+    "race": "Cucurbitaceae",
+    "image": {
+      "frame": "rare",
+      "model": "sandwich",
+      "background": "Cucurbitaceae"
+    },
+    "scarcity": "Rare",
+    "primary": "#14BE0E",
+    "extra": "#EDA200"
+  },
+  "32": {
+    "name": "The Mason Jar",
+    "description": "The Mason Jar was dismissed as myth for many years, despite the rumours that filtered across the galaxy. The pet project of legendary engineer Rick, it was developed in top secret until ready for release. It incorporates a hyper-core that helps it to deliver exceptional mining power, making it one of the most feared ships ever to exist.",
+    "collection": "pickle finance",
+    "background_color": "f3f2f3",
+    "external_url": "",
+    "supply": "1",
+    "race": "Cucurbitaceae",
+    "image": {
+      "frame": "mythic",
+      "model": "themasonjar",
+      "background": "Cucurbitaceae"
+    },
+    "scarcity": "Mythic",
+    "primary": "#14BE0E",
+    "extra": "#EDA200",
+    "invariant": true
+  },
   "mystery": {
     "name": "mystery",
     "description": "",
