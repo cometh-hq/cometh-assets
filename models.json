@@ -14,7 +14,12 @@
     },
     "scarcity": "Common",
     "primary": "#9f9e8a",
-    "extra": "#007bff"
+    "extra": "#007bff",
+    "stats": {
+      "radar": 100,
+      "drill": 100,
+      "machinery": 100
+    }
   },
   "2": {
     "name": "Explorer",
@@ -31,7 +36,12 @@
     },
     "scarcity": "Common",
     "primary": "#9f9e8a",
-    "extra": "#007bff"
+    "extra": "#007bff",
+    "stats": {
+      "radar": 110,
+      "drill": 100,
+      "machinery": 110
+    }
   },
   "3": {
     "name": "Prospector",
@@ -48,7 +58,12 @@
     },
     "scarcity": "Uncommon",
     "primary": "#9f9e8a",
-    "extra": "#007bff"
+    "extra": "#007bff",
+    "stats": {
+      "radar": 100,
+      "drill": 110,
+      "machinery": 110
+    }
   },
   "4": {
     "name": "Pioneer",
@@ -65,7 +80,12 @@
     },
     "scarcity": "Uncommon",
     "primary": "#9f9e8a",
-    "extra": "#007bff"
+    "extra": "#007bff",
+    "stats": {
+      "radar": 110,
+      "drill": 90,
+      "machinery": 100
+    }
   },
   "5": {
     "name": "Space Digger",
@@ -82,7 +102,12 @@
     },
     "scarcity": "Rare",
     "primary": "#9f9e8a",
-    "extra": "#007bff"
+    "extra": "#007bff",
+    "stats": {
+      "radar": 140,
+      "drill": 120,
+      "machinery": 120
+    }
   },
   "6": {
     "name": "Drone",
@@ -99,7 +124,12 @@
     },
     "scarcity": "Common",
     "primary": "#289fdb",
-    "extra": "#ffbf00"
+    "extra": "#ffbf00",
+    "stats": {
+      "radar": 120,
+      "drill": 140,
+      "machinery": 120
+    }
   },
   "7": {
     "name": "Pathfinder",
@@ -116,7 +146,12 @@
     },
     "scarcity": "Common",
     "primary": "#289fdb",
-    "extra": "#ffbf00"
+    "extra": "#ffbf00",
+    "stats": {
+      "radar": 140,
+      "drill": 100,
+      "machinery": 100
+    }
   },
   "8": {
     "name": "Vanguard",
@@ -133,7 +168,12 @@
     },
     "scarcity": "Uncommon",
     "primary": "#289fdb",
-    "extra": "#ffbf00"
+    "extra": "#ffbf00",
+    "stats": {
+      "radar": 100,
+      "drill": 140,
+      "machinery": 100
+    }
   },
   "9": {
     "name": "Handshaker",
@@ -150,7 +190,12 @@
     },
     "scarcity": "Uncommon",
     "primary": "#289fdb",
-    "extra": "#ffbf00"
+    "extra": "#ffbf00",
+    "stats": {
+      "radar": 100,
+      "drill": 220,
+      "machinery": 100
+    }
   },
   "10": {
     "name": "Senator",
@@ -167,7 +212,12 @@
     },
     "scarcity": "Rare",
     "primary": "#289fdb",
-    "extra": "#ffbf00"
+    "extra": "#ffbf00",
+    "stats": {
+      "radar": 160,
+      "drill": 160,
+      "machinery": 100
+    }
   },
   "11": {
     "name": "Sunriser",
@@ -184,7 +234,12 @@
     },
     "scarcity": "Mythic",
     "primary": "#b3b316",
-    "extra": "#359aff"
+    "extra": "#359aff",
+    "stats": {
+      "radar": 220,
+      "drill": 220,
+      "machinery": 100
+    }
   },
   "12": {
     "name": "Auditor",
@@ -201,7 +256,12 @@
     },
     "scarcity": "Common",
     "primary": "#5B4E64",
-    "extra": "#0085A3"
+    "extra": "#0085A3",
+    "stats": {
+      "radar": 110,
+      "drill": 100,
+      "machinery": 110
+    }
   },
   "13": {
     "name": "Comptroller",
@@ -218,7 +278,12 @@
     },
     "scarcity": "Uncommon",
     "primary": "#5B4E64",
-    "extra": "#0085A3"
+    "extra": "#0085A3",
+    "stats": {
+      "radar": 120,
+      "drill": 120,
+      "machinery": 100
+    }
   },
   "14": {
     "name": "Enforcer",
@@ -235,7 +300,12 @@
     },
     "scarcity": "Rare",
     "primary": "#5B4E64",
-    "extra": "#0085A3"
+    "extra": "#0085A3",
+    "stats": {
+      "radar": 130,
+      "drill": 160,
+      "machinery": 70
+    }
   },
   "15": {
     "name": "Chancellor",
@@ -252,7 +322,12 @@
     },
     "scarcity": "Mythic",
     "primary": "#5B4E64",
-    "extra": "#0085A3"
+    "extra": "#0085A3",
+    "stats": {
+      "radar": 220,
+      "drill": 180,
+      "machinery": 60
+    }
   },
   "16": {
     "name": "Petrack",
@@ -269,7 +344,12 @@
     },
     "scarcity": "Uncommon",
     "primary": "#4C4C4C",
-    "extra": "#00AAFF"
+    "extra": "#00AAFF",
+    "stats": {
+      "radar": 100,
+      "drill": 120,
+      "machinery": 80
+    }
   },
   "17": {
     "name": "Nomad",
@@ -287,7 +367,12 @@
     "scarcity": "common",
     "primary": "#ffffff",
     "extra": "#7dc2fb",
-    "invariant": true
+    "invariant": true,
+    "stats": {
+      "radar": 120,
+      "drill": 80,
+      "machinery": 100
+    }
   },
   "18": {
     "name": "Netrunner",
@@ -305,7 +390,12 @@
     "scarcity": "uncommon",
     "primary": "#ae8bff",
     "extra": "#a0e9fb",
-    "invariant": true
+    "invariant": true,
+    "stats": {
+      "radar": 80,
+      "drill": 160,
+      "machinery": 100
+    }
   },
   "19": {
     "name": "Highrider",
@@ -323,7 +413,12 @@
     "scarcity": "rare",
     "primary": "#c4cce2",
     "extra": "#bb97ff",
-    "invariant": true
+    "invariant": true,
+    "stats": {
+      "radar": 160,
+      "drill": 130,
+      "machinery": 70
+    }
   },
   "20": {
     "name": "Apogee",
@@ -341,7 +436,12 @@
     "scarcity": "mythic",
     "primary": "#e1a1f8",
     "extra": "#ffd8ad",
-    "invariant": true
+    "invariant": true,
+    "stats": {
+      "radar": 260,
+      "drill": 100,
+      "machinery": 20
+    }
   },
   "21": {
     "name": "Journey to the West",
@@ -358,7 +458,12 @@
     },
     "scarcity": "Common",
     "primary": "#6E0106",
-    "extra": "#F8BE53"
+    "extra": "#F8BE53",
+    "stats": {
+      "radar": 100,
+      "drill": 120,
+      "machinery": 120
+    }
   },
   "22": {
     "name": "Earthly Demons",
@@ -375,7 +480,12 @@
     },
     "scarcity": "Uncommon",
     "primary": "#6E0106",
-    "extra": "#F8BE53"
+    "extra": "#F8BE53",
+    "stats": {
+      "radar": 180,
+      "drill": 100,
+      "machinery": 140
+    }
   },
   "23": {
     "name": "Heavenly Spirits",
@@ -392,7 +502,12 @@
     },
     "scarcity": "Rare",
     "primary": "#6E0106",
-    "extra": "#F8BE53"
+    "extra": "#F8BE53",
+    "stats": {
+      "radar": 130,
+      "drill": 190,
+      "machinery": 100
+    }
   },
   "24": {
     "name": "Three Kingdoms",
@@ -409,7 +524,12 @@
     },
     "scarcity": "Mythic",
     "primary": "#6E0106",
-    "extra": "#F8BE53"
+    "extra": "#F8BE53",
+    "stats": {
+      "radar": 100,
+      "drill": 340,
+      "machinery": 100
+    }
   },
   "25": {
     "name": "Fren",
@@ -426,7 +546,12 @@
     },
     "scarcity": "Uncommon",
     "primary": "#FCFAFF",
-    "extra": "#FA34F3"
+    "extra": "#FA34F3",
+    "stats": {
+      "radar": 100,
+      "drill": 140,
+      "machinery": 100
+    }
   },
   "26": {
     "name": "Monocle",
@@ -443,7 +568,12 @@
     },
     "scarcity": "Uncommon",
     "primary": "#FCFAFF",
-    "extra": "#FA34F3"
+    "extra": "#FA34F3",
+    "stats": {
+      "radar": 180,
+      "drill": 120,
+      "machinery": 160
+    }
   },
   "27": {
     "name": "Curve",
@@ -460,7 +590,12 @@
     },
     "scarcity": "Rare",
     "primary": "#FCFAFF",
-    "extra": "#FA34F3"
+    "extra": "#FA34F3",
+    "stats": {
+      "radar": 100,
+      "drill": 190,
+      "machinery": 70
+    }
   },
   "28": {
     "name": "GHST",
@@ -478,7 +613,12 @@
     "scarcity": "Mythic",
     "primary": "#FCFAFF",
     "extra": "#FA34F3",
-    "invariant": true
+    "invariant": true,
+    "stats": {
+      "radar": 140,
+      "drill": 260,
+      "machinery": 60
+    }
   },
   "29": {
     "name": "Pickle",
@@ -495,7 +635,12 @@
     },
     "scarcity": "Uncommon",
     "primary": "#14BE0E",
-    "extra": "#EDA200"
+    "extra": "#EDA200",
+    "stats": {
+      "radar": 60,
+      "drill": 140,
+      "machinery": 60
+    }
   },
   "30": {
     "name": "Slice",
@@ -512,7 +657,12 @@
     },
     "scarcity": "Uncommon",
     "primary": "#14BE0E",
-    "extra": "#EDA200"
+    "extra": "#EDA200",
+    "stats": {
+      "radar": 220,
+      "drill": 100,
+      "machinery": 180
+    }
   },
   "31": {
     "name": "Sandwich",
@@ -529,7 +679,12 @@
     },
     "scarcity": "Rare",
     "primary": "#14BE0E",
-    "extra": "#EDA200"
+    "extra": "#EDA200",
+    "stats": {
+      "radar": 130,
+      "drill": 220,
+      "machinery": 100
+    }
   },
   "32": {
     "name": "The Mason Jar",
@@ -547,7 +702,12 @@
     "scarcity": "Mythic",
     "primary": "#14BE0E",
     "extra": "#EDA200",
-    "invariant": true
+    "invariant": true,
+    "stats": {
+      "radar": 140,
+      "drill": 420,
+      "machinery": 220
+    }
   },
   "mystery": {
     "name": "mystery",
