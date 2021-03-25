@@ -683,7 +683,7 @@
     "stats": {
       "radar": 130,
       "drill": 220,
-      "machinery": 100
+      "machinery": 130
     }
   },
   "32": {
@@ -707,6 +707,95 @@
       "radar": 140,
       "drill": 420,
       "machinery": 220
+    }
+  },
+  "33": {
+    "name": "Anakuma",
+    "description": "",
+    "collection": "badger",
+    "background_color": "f3f2f3",
+    "external_url": "",
+    "supply": "100",
+    "race": "Meles",
+    "image": {
+      "frame": "uncommon",
+      "model": "anakuma",
+      "background": "meles"
+    },
+    "scarcity": "Uncommon",
+    "primary": "#ffffff",
+    "extra": "#f2a52b",
+    "stats": {
+      "radar": 110,
+      "drill": 130,
+      "machinery": 100
+    }
+  },
+  "34": {
+    "name": "Mellivora",
+    "description": "",
+    "collection": "badger",
+    "background_color": "f3f2f3",
+    "external_url": "",
+    "supply": "5",
+    "race": "Meles",
+    "image": {
+      "frame": "rare",
+      "model": "mellivora",
+      "background": "meles"
+    },
+    "scarcity": "Rare",
+    "primary": "#ffffff",
+    "extra": "#f2a52b",
+    "stats": {
+      "radar": 85,
+      "drill": 250,
+      "machinery": 115
+    }
+  },
+  "35": {
+    "name": "Leucurus",
+    "description": "",
+    "collection": "badger",
+    "background_color": "f3f2f3",
+    "external_url": "",
+    "supply": "5",
+    "race": "Meles",
+    "image": {
+      "frame": "rare",
+      "model": "leucurus",
+      "background": "meles"
+    },
+    "scarcity": "Rare",
+    "primary": "#ffffff",
+    "extra": "#f2a52b",
+    "stats": {
+      "radar": 115,
+      "drill": 190,
+      "machinery": 85
+    }
+  },
+  "36": {
+    "name": "Capensis",
+    "description": "",
+    "collection": "badger",
+    "background_color": "f3f2f3",
+    "external_url": "",
+    "supply": "1",
+    "race": "Meles",
+    "image": {
+      "frame": "mythic",
+      "model": "capensis",
+      "background": "meles"
+    },
+    "scarcity": "Mythic",
+    "primary": "#ffffff",
+    "extra": "#f2a52b",
+    "invariant": true,
+    "stats": {
+      "radar": 140,
+      "drill": 240,
+      "machinery": 40
     }
   },
   "mystery": {
