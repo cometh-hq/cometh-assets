@@ -60,9 +60,9 @@
     "primary": "#9f9e8a",
     "extra": "#007bff",
     "stats": {
-      "radar": 100,
-      "drill": 110,
-      "machinery": 110
+      "radar": 120,
+      "drill": 140,
+      "machinery": 120
     }
   },
   "4": {
@@ -82,9 +82,9 @@
     "primary": "#9f9e8a",
     "extra": "#007bff",
     "stats": {
-      "radar": 110,
-      "drill": 90,
-      "machinery": 100
+      "radar": 140,
+      "drill": 120,
+      "machinery": 120
     }
   },
   "5": {
@@ -104,9 +104,9 @@
     "primary": "#9f9e8a",
     "extra": "#007bff",
     "stats": {
-      "radar": 140,
-      "drill": 120,
-      "machinery": 120
+      "radar": 100,
+      "drill": 220,
+      "machinery": 100
     }
   },
   "6": {
@@ -126,9 +126,9 @@
     "primary": "#289fdb",
     "extra": "#ffbf00",
     "stats": {
-      "radar": 120,
-      "drill": 140,
-      "machinery": 120
+      "radar": 100,
+      "drill": 110,
+      "machinery": 110
     }
   },
   "7": {
@@ -148,8 +148,8 @@
     "primary": "#289fdb",
     "extra": "#ffbf00",
     "stats": {
-      "radar": 140,
-      "drill": 100,
+      "radar": 110,
+      "drill": 90,
       "machinery": 100
     }
   },
@@ -170,8 +170,8 @@
     "primary": "#289fdb",
     "extra": "#ffbf00",
     "stats": {
-      "radar": 100,
-      "drill": 140,
+      "radar": 140,
+      "drill": 100,
       "machinery": 100
     }
   },
@@ -193,7 +193,7 @@
     "extra": "#ffbf00",
     "stats": {
       "radar": 100,
-      "drill": 220,
+      "drill": 140,
       "machinery": 100
     }
   },
