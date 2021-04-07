@@ -798,6 +798,75 @@
       "machinery": 40
     }
   },
+  "37": {
+    "name": "Croissant",
+    "description": "Both the past and the future of France is a reliable staple, fresh from the oven. An old but reliable design, has been around longer than anyone can remember. This common traveller spreads delight in all corners of the universe, it ion engine exhaust smells like butter. Often fakes surrender by lowering it's shields, but Upon boarding the invader often gets burned.",
+    "collection": "alchemix",
+    "background_color": "f3f2f3",
+    "external_url": "",
+    "supply": "50",
+    "race": "Wizards",
+    "image": {
+      "frame": "uncommon",
+      "model": "croissant",
+      "background": "wizards"
+    },
+    "scarcity": "Uncommon",
+    "primary": "#178EC2",
+    "extra": "#F5C09A"
+  },
+  "38": {
+    "name": "Friendmaker",
+    "description": "<blockquote>Speed and determination,<br/>strike with haste.</blockquote><br/>Born from Earth's anti-gravity racing leagues, the Friendmaker is a high speed single pilot ship that's capable of both on- and off-planet travel. It's slim body makes it the perfect interceptor and scouting unit. Just be prepared to get addicted to the rush of super phantom speed.",
+    "collection": "alchemix",
+    "background_color": "f3f2f3",
+    "external_url": "",
+    "supply": "5",
+    "race": "Wizards",
+    "image": {
+      "frame": "rare",
+      "model": "friendmaker",
+      "background": "wizards"
+    },
+    "scarcity": "Rare",
+    "primary": "#178EC2",
+    "extra": "#F5C09A"
+  },
+  "39": {
+    "name": "Space Crab",
+    "description": "Regular winner due to it's unique ability to drift sideways. Dominating the moons of Jupiter Grand Race Circuit 8 Sols in a row, The Space Crab has made a name for itself as first in class ship that can handle any environment with grace. It has become a favorite of racing enthusiasts and the Space Police Force for its sense of agility, speed, and control.",
+    "collection": "alchemix",
+    "background_color": "f3f2f3",
+    "external_url": "",
+    "supply": "5",
+    "race": "Wizards",
+    "image": {
+      "frame": "rare",
+      "model": "spacecrab",
+      "background": "wizards"
+    },
+    "scarcity": "Rare",
+    "primary": "#178EC2",
+    "extra": "#F5C09A"
+  },
+  "40": {
+    "name": "Liberator",
+    "description": "The design and underlying tech for this ship has been lost in the depths of time, but it has the unique ability to clone itself - provided sufficient energy can be concentrated in the one place for the task. Opportunities for this are exceedingly rare however, so the number of these ships in existence is very low. With 'Standard by 12' speeds, cloaking while shielded, and an onboard oracle that can see roughly 3 minutes into the future, it is a highly desirable asset indeed!",
+    "collection": "alchemix",
+    "background_color": "f3f2f3",
+    "external_url": "",
+    "supply": "1",
+    "race": "Wizards",
+    "image": {
+      "frame": "mythic",
+      "model": "liberator",
+      "background": "wizards"
+    },
+    "invariant": true,
+    "scarcity": "Mythic",
+    "primary": "#178EC2",
+    "extra": "#F5C09A"
+  },
   "mystery": {
     "name": "mystery",
     "description": "",
