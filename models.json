@@ -813,7 +813,12 @@
     },
     "scarcity": "Uncommon",
     "primary": "#178EC2",
-    "extra": "#F5C09A"
+    "extra": "#F5C09A",
+    "stats": {
+      "radar": 120,
+      "drill": 140,
+      "machinery": 120
+    }
   },
   "38": {
     "name": "Friendmaker",
@@ -830,7 +835,12 @@
     },
     "scarcity": "Rare",
     "primary": "#178EC2",
-    "extra": "#F5C09A"
+    "extra": "#F5C09A",
+    "stats": {
+      "radar": 130,
+      "drill": 115,
+      "machinery": 25
+    }
   },
   "39": {
     "name": "Space Crab",
@@ -847,7 +857,12 @@
     },
     "scarcity": "Rare",
     "primary": "#178EC2",
-    "extra": "#F5C09A"
+    "extra": "#F5C09A",
+    "stats": {
+      "radar": 100,
+      "drill": 250,
+      "machinery": 130
+    }
   },
   "40": {
     "name": "Liberator",
@@ -865,7 +880,12 @@
     "invariant": true,
     "scarcity": "Mythic",
     "primary": "#178EC2",
-    "extra": "#F5C09A"
+    "extra": "#F5C09A",
+    "stats": {
+      "radar": 380,
+      "drill": 220,
+      "machinery": 260
+    }
   },
   "mystery": {
     "name": "mystery",
