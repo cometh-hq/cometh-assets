@@ -243,7 +243,7 @@
   },
   "12": {
     "name": "Auditor",
-    "description": "Quick, ergonomic, easy to park and efficient at harvesting, the Auditor is a marvel although the spaceship is quite common among the Treasurers. The Auditor is perfect for exploratory mission and mining opportunity assessment. The hull is made out of plexinium, a vibration resistant alloy the Treasures conceived as a cheaper version of gundamium. A turbocharged high performance scramjet completes the model.",
+    "description": "Quick, ergonomic, easy to park, and efficient at harvesting, the Auditor is a marvel although the spaceship is quite common among the Treasurers. The Auditor is perfect for exploratory mission and mining opportunity assessment. The hull is made out of plexinium, a vibration resistant alloy the Treasurers conceived as a cheaper version of gundamium. A turbocharged high performance scramjet completes the model.",
     "collection": "liquidity provider",
     "background_color": "f3f2f3",
     "external_url": "",
@@ -265,7 +265,7 @@
   },
   "13": {
     "name": "Comptroller",
-    "description": "Neither a controller nor a computer, a comptroller carries a computational power similar to a small Rez ship combined with the sturdiness and reliability of Treasurer engineering. A comptroller is capable of vibrationless gravitational slingshots as well as rapid asteroid approach. The mining gears have exceptional reputations, it’s said there is no spare parts for the mandresl: they never break.",
+    "description": "Neither a controller nor a computer, a comptroller carries a computational power similar to a small Rez ship combined with the sturdiness and reliability of Treasurer engineering. A comptroller is capable of vibrationless gravitational slingshots as well as rapid asteroid approach. The mining gears have exceptional reputations. It’s said there are no spare parts for the mandresl; they never break.",
     "collection": "liquidity provider",
     "background_color": "f3f2f3",
     "external_url": "",
@@ -287,7 +287,7 @@
   },
   "14": {
     "name": "Enforcer",
-    "description": "Exceptionally crafted with gundamium and tempered plexinium, strictly limited and blessed with unbelievable driving dynamics, the Enforcer is simply mind blowing. Two turbocharged high performance scramjets assist two Quantum vacuum thrusters, the quartet melody is only matched by the piling up of mined MUST in the sumptuous and cosy interior. Fly an Enforcer and you will never fly anything else.",
+    "description": "Exceptionally crafted with gundamium and tempered plexinium, produced in limited quantities, and blessed with unbelievable driving dynamics, the Enforcer is simply mind blowing. Two turbocharged high performance scramjets assist two Quantum vacuum thrusters. This quartet’s melody is only matched by the piling up of mined MUST in the sumptuous and cosy interior. Fly an Enforcer and you will never fly anything else.",
     "collection": "liquidity provider",
     "background_color": "f3f2f3",
     "external_url": "",
@@ -309,7 +309,7 @@
   },
   "15": {
     "name": "Chancellor",
-    "description": "",
+    "description": "This flagship is nothing less than the apex of the Treasurers’ fleet and includes the most advanced technologies along with unique features. Chancellors were exclusively reserved to the highest Treasurer dignitaries and as the vessels ended up on the market, they gradually became status granting assets. In addition to the three quantum vacuum thrusters, the plasma repellent coating on the wings allows breathtaking speed and maneuverability in solar winds. Truly a magnificent spaceship.",
     "collection": "liquidity provider",
     "background_color": "f3f2f3",
     "external_url": "",
@@ -331,7 +331,7 @@
   },
   "16": {
     "name": "Petrack",
-    "description": "The formation of those vessels are still very badly understood. The main hypothesis is that in some ways the MUST or some of life forms it carries manage to take over another spaceship after years of harvesting. Whether it is a galactic virus or interstellar decay, it doesn’t deter anyone from mining. Infected spaceships barely communicate with standard procedures. Humans call them Petra, Rez say Pet Rock, most people settle on Petrack.",
+    "description": "The formation of those vessels are still very badly understood. The main hypothesis is that in some ways the MUST or some of the life forms it carries manage to take over another spaceship after years of harvesting. Whether it is a galactic virus or interstellar decay, it doesn’t deter anyone from mining. Infected spaceships barely communicate with standard procedures. Humans call them Petra, Rez say Pet Rock, and most people settle on Petrack.",
     "collection": "genesis",
     "background_color": "f3f2f3",
     "external_url": "",
@@ -533,7 +533,7 @@
   },
   "25": {
     "name": "Fren",
-    "description": "“Because it was my Fren; because it was me”. Frens are valued the most among spaceships for the special relation they have with their pilots. Always functional when needs be, a Fren will never let you down. This vessel is not easy to find in the galaxy and is blessed by the saying: “Fren ships multiply the good of life and devide the evil”",
+    "description": "“Because it was my Fren; because it was me”. Frens are valued the most among spaceships for the special relation they have with their pilots. Additionally, Frens are reliable and will never let you down. This vessel is not easy to find in the galaxy and is blessed by the saying: “Fren ships multiply the good of life and divide the evil”",
     "collection": "aavegotchi",
     "background_color": "f3f2f3",
     "external_url": "",
@@ -555,7 +555,7 @@
   },
   "26": {
     "name": "Monocle",
-    "description": "Monocle spaceships provide astounding flying capabilities thanks to a audacious asymmetric cockpit design. Designed by gentlemen, for gentlemen, the steering is remarquable and its course always distinguished. The plate of the vessel shows “AGG -2, BRN +3” UFO on every of the models ever produced.",
+    "description": "Monocle spaceships provide astounding flying capabilities thanks to an audacious asymmetric cockpit design. Designed by gentlemen, for gentlemen, the steering is remarquable and its course is always distinguished. The plate of the vessel shows “AGG -2, BRN +3” UFO on every model ever produced.",
     "collection": "aavegotchi",
     "background_color": "f3f2f3",
     "external_url": "",
@@ -577,7 +577,7 @@
   },
   "27": {
     "name": "Curve",
-    "description": "Curve is meant to fit the shape of any minable object. The most cutting-edge scientists of the galaxy contributed to the Curve engineering and achieved one of the highest known mining efficiency. The two cosmic combustion chambers are turbo boosted by eight crystal cylinders, which allow Frens and others to pull to a Curve like child’s play. Everyone is bonding with Curves especially in straight lines.",
+    "description": "Curve is meant to fit the shape of any minable object. The most cutting-edge scientists of the galaxy contributed to Curve engineering and achieved one of the highest known mining efficiency ratings. The two cosmic combustion chambers are turbo boosted by eight crystal cylinders, which allow Frens and others to be pulled by a Curve like child’s play. Everyone bonds with Curves - especially in straight lines.",
     "collection": "aavegotchi",
     "background_color": "f3f2f3",
     "external_url": "",
@@ -599,7 +599,7 @@
   },
   "28": {
     "name": "GHST",
-    "description": "As the original prototype of the Curve, the GHST is a one of kind and phenomenal spaceship. With no less than five cosmic combustion chambers powered by the two largest crystals ever hoarded by the Frens, this vessel sets the highest standard of mobility. The few that have seen the GHST in real life recall being left dazed by how it was seamlessly floating from one asteroid to the next with heavy bags under its hull.",
+    "description": "As the original prototype of the Curve, the GHST is a phenomenal, one of a kind spaceship. With no less than five cosmic combustion chambers powered by the two largest crystals ever hoarded by the Frens, this vessel sets the highest standard of mobility. The few who have ever glimpsed the GHST in real life recall being left dazed by how it seamlessly floated from one asteroid to the next, leaving a sparkling wake of crystal residue behind it.",
     "collection": "aavegotchi",
     "background_color": "f3f2f3",
     "external_url": "",
