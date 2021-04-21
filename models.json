@@ -887,6 +887,75 @@
       "machinery": 260
     }
   },
+  "41": {
+    "name": "Arbitrator",
+    "description": "",
+    "collection": "Kleros",
+    "background_color": "f3f2f3",
+    "external_url": "",
+    "supply": "25",
+    "race": "Kleroterion",
+    "image": {
+      "frame": "uncommon",
+      "model": "arbitrator",
+      "background": "kleroterion"
+    },
+    "scarcity": "Uncommon",
+    "primary": "#4D00B4",
+    "extra": "#67E5FF"
+  },
+  "42": {
+    "name": "Pinakion",
+    "description": "",
+    "collection": "Kleros",
+    "background_color": "f3f2f3",
+    "external_url": "",
+    "supply": "5",
+    "race": "Kleroterion",
+    "image": {
+      "frame": "rare",
+      "model": "pinakion",
+      "background": "kleroterion"
+    },
+    "scarcity": "Rare",
+    "primary": "#4D00B4",
+    "extra": "#67E5FF"
+  },
+  "43": {
+    "name": "Justitia",
+    "description": "",
+    "collection": "Kleros",
+    "background_color": "f3f2f3",
+    "external_url": "",
+    "supply": "5",
+    "race": "Kleroterion",
+    "image": {
+      "frame": "rare",
+      "model": "justitia",
+      "background": "kleroterion"
+    },
+    "scarcity": "Rare",
+    "primary": "#4D00B4",
+    "extra": "#67E5FF"
+  },
+  "44": {
+    "name": "Truthstar",
+    "description": "",
+    "collection": "Kleros",
+    "background_color": "f3f2f3",
+    "external_url": "",
+    "supply": "1",
+    "race": "Kleroterion",
+    "image": {
+      "frame": "mythic",
+      "model": "truthstar",
+      "background": "kleroterion"
+    },
+    "scarcity": "Mythic",
+    "primary": "#4D00B4",
+    "extra": "#67E5FF",
+    "invariant": true
+  },
   "mystery": {
     "name": "mystery",
     "description": "",
