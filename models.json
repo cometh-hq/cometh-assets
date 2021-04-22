@@ -889,7 +889,7 @@
   },
   "41": {
     "name": "Arbitrator",
-    "description": "",
+    "description": "The Arbitrator benefits from its clever scale-like design enabling it to both mine space rocks at a decent speed and directly weigh the resources mined. Though it is limited in its mining range, it hosts a full autonomous court able to condemn any asteroid plunderer in its path",
     "collection": "Kleros",
     "background_color": "f3f2f3",
     "external_url": "",
@@ -906,7 +906,7 @@
   },
   "42": {
     "name": "Pinakion",
-    "description": "",
+    "description": "The Pinakion ring-shaped living quarters are where most of the “Juror” class members of the Kleroterions spend their lives while waiting to be drawn in cases. As some time can flow between cases, their manpower is used for mining in-between jury duty.",
     "collection": "Kleros",
     "background_color": "f3f2f3",
     "external_url": "",
@@ -923,7 +923,7 @@
   },
   "43": {
     "name": "Justitia",
-    "description": "",
+    "description": "Also called “The Supreme Court Ship”, the Justitia is where all the most precious minerals are extracted and stored. Whether you are a nugget of platinum or an interstellar DeFi hacker, you will end up on this ship to be processed in the name of greater justice.",
     "collection": "Kleros",
     "background_color": "f3f2f3",
     "external_url": "",
@@ -940,7 +940,7 @@
   },
   "44": {
     "name": "Truthstar",
-    "description": "",
+    "description": "As ultimate enforcer of all rulings made by the Kleroterion emporium, the Truthstar packs heavy drilling able to destroy a diamond-filled comet or a non-compliant planet in one go. Also called “The Sword of Justice” by the comets fearing its wrath, the Truthstar has been the main driver of both Kleroterion expansion and its hunger for resources.",
     "collection": "Kleros",
     "background_color": "f3f2f3",
     "external_url": "",
