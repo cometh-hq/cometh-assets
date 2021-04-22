@@ -902,7 +902,13 @@
     },
     "scarcity": "Uncommon",
     "primary": "#4D00B4",
-    "extra": "#67E5FF"
+    "extra": "#67E5FF",
+    "stats": {
+      "radar": 100,
+      "drill": 129,
+      "machinery": 80
+    }
+    
   },
   "42": {
     "name": "Pinakion",
@@ -919,7 +925,12 @@
     },
     "scarcity": "Rare",
     "primary": "#4D00B4",
-    "extra": "#67E5FF"
+    "extra": "#67E5FF",
+    "stats": {
+      "radar": 130,
+      "drill": 130,
+      "machinery": 40
+    }
   },
   "43": {
     "name": "Justitia",
@@ -936,7 +947,12 @@
     },
     "scarcity": "Rare",
     "primary": "#4D00B4",
-    "extra": "#67E5FF"
+    "extra": "#67E5FF",
+    "stats": {
+      "radar": 100,
+      "drill": 160,
+      "machinery": 40
+    }
   },
   "44": {
     "name": "Truthstar",
@@ -954,6 +970,11 @@
     "scarcity": "Mythic",
     "primary": "#4D00B4",
     "extra": "#67E5FF",
+    "stats": {
+      "radar": 140,
+      "drill": 220,
+      "machinery": 20
+    }
     "invariant": true
   },
   "mystery": {
