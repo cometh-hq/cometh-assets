@@ -40,7 +40,7 @@
     "stats": {
       "radar": 110,
       "drill": 100,
-      "machinery": 110
+      "machinery": 90
     }
   },
   "3": {
@@ -62,7 +62,7 @@
     "stats": {
       "radar": 120,
       "drill": 140,
-      "machinery": 120
+      "machinery": 80
     }
   },
   "4": {
@@ -84,7 +84,7 @@
     "stats": {
       "radar": 140,
       "drill": 120,
-      "machinery": 120
+      "machinery": 80
     }
   },
   "5": {
@@ -128,7 +128,7 @@
     "stats": {
       "radar": 100,
       "drill": 110,
-      "machinery": 110
+      "machinery": 90
     }
   },
   "7": {
@@ -260,7 +260,7 @@
     "stats": {
       "radar": 110,
       "drill": 100,
-      "machinery": 110
+      "machinery": 90
     }
   },
   "13": {
@@ -304,7 +304,7 @@
     "stats": {
       "radar": 130,
       "drill": 160,
-      "machinery": 70
+      "machinery": 130
     }
   },
   "15": {
@@ -326,7 +326,7 @@
     "stats": {
       "radar": 220,
       "drill": 180,
-      "machinery": 60
+      "machinery": 140
     }
   },
   "16": {
@@ -348,7 +348,7 @@
     "stats": {
       "radar": 100,
       "drill": 120,
-      "machinery": 80
+      "machinery": 120
     }
   },
   "17": {
@@ -417,7 +417,7 @@
     "stats": {
       "radar": 160,
       "drill": 130,
-      "machinery": 70
+      "machinery": 130
     }
   },
   "20": {
@@ -440,7 +440,7 @@
     "stats": {
       "radar": 260,
       "drill": 100,
-      "machinery": 20
+      "machinery": 180
     }
   },
   "21": {
@@ -462,7 +462,7 @@
     "stats": {
       "radar": 100,
       "drill": 120,
-      "machinery": 120
+      "machinery": 80
     }
   },
   "22": {
@@ -484,7 +484,7 @@
     "stats": {
       "radar": 180,
       "drill": 100,
-      "machinery": 140
+      "machinery": 60
     }
   },
   "23": {
@@ -572,7 +572,7 @@
     "stats": {
       "radar": 180,
       "drill": 120,
-      "machinery": 160
+      "machinery": 40
     }
   },
   "27": {
@@ -594,7 +594,7 @@
     "stats": {
       "radar": 100,
       "drill": 190,
-      "machinery": 70
+      "machinery": 130
     }
   },
   "28": {
@@ -617,7 +617,7 @@
     "stats": {
       "radar": 140,
       "drill": 260,
-      "machinery": 60
+      "machinery": 140
     }
   },
   "29": {
@@ -639,7 +639,7 @@
     "stats": {
       "radar": 60,
       "drill": 140,
-      "machinery": 60
+      "machinery": 140
     }
   },
   "30": {
@@ -661,7 +661,7 @@
     "stats": {
       "radar": 220,
       "drill": 100,
-      "machinery": 180
+      "machinery": 20
     }
   },
   "31": {
@@ -683,7 +683,7 @@
     "stats": {
       "radar": 130,
       "drill": 220,
-      "machinery": 130
+      "machinery": 70
     }
   },
   "32": {
@@ -706,7 +706,7 @@
     "stats": {
       "radar": 140,
       "drill": 420,
-      "machinery": 220
+      "machinery": -20
     }
   },
   "33": {
@@ -750,7 +750,7 @@
     "stats": {
       "radar": 85,
       "drill": 250,
-      "machinery": 115
+      "machinery": 85
     }
   },
   "35": {
@@ -772,7 +772,7 @@
     "stats": {
       "radar": 115,
       "drill": 190,
-      "machinery": 85
+      "machinery": 115
     }
   },
   "36": {
@@ -795,7 +795,7 @@
     "stats": {
       "radar": 140,
       "drill": 240,
-      "machinery": 40
+      "machinery": 160
     }
   },
   "37": {
@@ -817,7 +817,7 @@
     "stats": {
       "radar": 120,
       "drill": 140,
-      "machinery": 120
+      "machinery": 80
     }
   },
   "38": {
@@ -839,7 +839,7 @@
     "stats": {
       "radar": 130,
       "drill": 115,
-      "machinery": 25
+      "machinery": 175
     }
   },
   "39": {
@@ -861,7 +861,7 @@
     "stats": {
       "radar": 100,
       "drill": 250,
-      "machinery": 130
+      "machinery": 70
     }
   },
   "40": {
@@ -884,7 +884,7 @@
     "stats": {
       "radar": 380,
       "drill": 220,
-      "machinery": 260
+      "machinery": -60
     }
   },
   "41": {
@@ -906,9 +906,9 @@
     "stats": {
       "radar": 100,
       "drill": 129,
-      "machinery": 80
+      "machinery": 120
     }
-    
+
   },
   "42": {
     "name": "Pinakion",
@@ -929,7 +929,7 @@
     "stats": {
       "radar": 130,
       "drill": 130,
-      "machinery": 40
+      "machinery": 160
     }
   },
   "43": {
@@ -951,7 +951,7 @@
     "stats": {
       "radar": 100,
       "drill": 160,
-      "machinery": 40
+      "machinery": 160
     }
   },
   "44": {
@@ -973,7 +973,7 @@
     "stats": {
       "radar": 140,
       "drill": 220,
-      "machinery": 20
+      "machinery": 180
     },
     "invariant": true
   },
