@@ -977,6 +977,75 @@
     },
     "invariant": true
   },
+  "45": {
+    "name": "Konpeito",
+    "description": "These tiny raiders are not seen as a substantial threat towards most targets on its own, however as their number grows, so does the the collective firepower. It was said the total of Konpeito in existence could rival the number of stars itself. Despite being the most common of the ships within the Doki fleet, they are still extremely important units utilized daily by the Lunarellan people. Unlike the other ships, the Konpeito have been created to be fully AI-operated. Konpeito candies was final gift Azuki had given Doki when the time comes for farewells, and memory of its tart sweetness soothed the sadness of that memory. Doki certainly has a certain fondness for Konpeito ships. It was a reminder of their promise to meet again once more. It was undoubtedly something she wanted to remember for sure.",
+    "collection": "Doki Doki",
+    "background_color": "f3f2f3",
+    "external_url": "",
+    "supply": "300",
+    "race": "Lunarella",
+    "image": {
+      "frame": "common",
+      "model": "konpeito",
+      "background": "lunarella"
+    },
+    "scarcity": "Common",
+    "primary": "#ffffff",
+    "extra": "#ff97c3"
+  },
+  "46": {
+    "name": "Ramune",
+    "description": "There were many similarities that tied the Ramune to it's soft drink counterpart. The most obvious identifying feature being its shape. While it's barest of resemblance to the iconic soda bottle has been noted, the Ramune is also known to possess a considerable amount of processing power for minting purposes. Equipped with the standard Lunarellan impulse drive, this ship could be seen fizzing across space with relative ease. At first, naming the ship Ramune wasn't the first thing that came into mind for Doki. But recalling the way Azuki had excitedly talked about her wish to travel in space, it had simply clicked into place. She fondly remembered the little Ramune bottle in Azuki's hand flying through the air, only now it is the name of a full-fledged ship. Doki couldn't wait for Azuki to see it, knowing how Azuki's eyes lit in excitement would make Doki feel delighted.",
+    "collection": "Doki Doki",
+    "background_color": "f3f2f3",
+    "external_url": "",
+    "supply": "30",
+    "race": "Lunarella",
+    "image": {
+      "frame": "uncommon",
+      "model": "ramune",
+      "background": "lunarella"
+    },
+    "scarcity": "Uncommon",
+    "primary": "#ffffff",
+    "extra": "#ff97c3"
+  },
+  "47": {
+    "name": "Anpan",
+    "description": "With the benefit of being able to traverse the vast emptiness of space between various star systems, the Anpan was fitted with the capabilities of faster-than-light travels which undoubtedly became an irreplaceable tool for the Lunarellas. Equipped with triple thrusters that guarantee the propulsion and maneuverability of the highest standard, the amount of travel Anpan brings to the table is like no other. Seeing a ship given such power and energy, Doki was immediately reminded of the taste of Anpan. Specifically the Anpan she had on an empty stomach, the very one Azuki bought from a kind elderly lady by the road and given to her. Many would see it as a simple snack, but it energized her for the entire day. It mirrored Azuki's constant burst of energy, and her ability to brighten up the days of the people around her. Anpan the ship represented that, with its luxurious interior. Those who boarded Anpan, were known to enjoy the best living conditions throughout the trip.",
+    "collection": "Doki Doki",
+    "background_color": "f3f2f3",
+    "external_url": "",
+    "supply": "3",
+    "race": "Lunarella",
+    "image": {
+      "frame": "rare",
+      "model": "anpan",
+      "background": "lunarella"
+    },
+    "scarcity": "Rare",
+    "primary": "#ffffff",
+    "extra": "#ff97c3"
+  },
+  "48": {
+    "name": "Higashi",
+    "description": "Higashi is the premier Lunarellan battleship designed to counter the superior space fleets from enemy colonies. It was considered the only vessel worthy to be powered by the Lunar core that can only be found deep within the Moon City. One would think the name Higashi would not be befitting for a ship of such caliber, but for Doki, it was possibly the best way to describe the magnificence felt the moment she laid her eyes upon it. 'It's... fancy! Stuff that emperors would eat you know? Mama told me it's super expensive and only for special occasions, so we can't have it all the time...' Azuki's voice chimed inside Doki's mind, it sounded almost like a perfect description for this floating fortress. The ship was made with strength and superiority above all in mind, having the most firepower within the fleet. As the flagship, Higashi is not only in possession of the most powerful weaponry available to the Dokifleet, her defense systems are also nearly flawless. It perfectly matched the strength Doki found within herself when Azuki first approached her time of need.",
+    "collection": "Doki Doki",
+    "background_color": "f3f2f3",
+    "external_url": "",
+    "supply": "1",
+    "race": "Lunarella",
+    "image": {
+      "frame": "mythic",
+      "model": "higashi",
+      "background": "lunarella"
+    },
+    "scarcity": "Mythic",
+    "primary": "#ffffff",
+    "extra": "#ff97c3",
+    "invariant": true
+  },
   "mystery": {
     "name": "mystery",
     "description": "",
