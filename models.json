@@ -992,7 +992,12 @@
     },
     "scarcity": "Common",
     "primary": "#ffffff",
-    "extra": "#ff97c3"
+    "extra": "#ff97c3",
+    "stats": {
+      "radar": 110,
+      "drill": 120,
+      "machinery": 70
+    }
   },
   "46": {
     "name": "Ramune",
@@ -1009,7 +1014,12 @@
     },
     "scarcity": "Uncommon",
     "primary": "#ffffff",
-    "extra": "#ff97c3"
+    "extra": "#ff97c3",
+    "stats": {
+      "radar": 110,
+      "drill": 120,
+      "machinery": 110
+    }
   },
   "47": {
     "name": "Anpan",
@@ -1026,7 +1036,12 @@
     },
     "scarcity": "Rare",
     "primary": "#ffffff",
-    "extra": "#ff97c3"
+    "extra": "#ff97c3",
+    "stats": {
+      "radar": 100,
+      "drill": 220,
+      "machinery": 100
+    }
   },
   "48": {
     "name": "Higashi",
@@ -1044,6 +1059,11 @@
     "scarcity": "Mythic",
     "primary": "#ffffff",
     "extra": "#ff97c3",
+    "stats": {
+      "radar": 140,
+      "drill": 340,
+      "machinery": 60
+    },
     "invariant": true
   },
   "mystery": {
