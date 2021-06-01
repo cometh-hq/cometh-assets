@@ -1066,6 +1066,57 @@
     },
     "invariant": true
   },
+  "49": {
+    "name": "Consul",
+    "description": "",
+    "collection": "",
+    "background_color": "f3f2f3",
+    "external_url": "",
+    "supply": "3",
+    "race": "Al'Ong",
+    "image": {
+      "frame": "mythic",
+      "model": "consul",
+      "background": "along"
+    },
+    "scarcity": "Mythic",
+    "primary": "#1B97EF",
+    "extra": "#EFB917"
+  },
+  "50": {
+    "name": "Gemini",
+    "description": "",
+    "collection": "",
+    "background_color": "f3f2f3",
+    "external_url": "",
+    "supply": "10",
+    "race": "Asterion",
+    "image": {
+      "frame": "rare",
+      "model": "gemini",
+      "background": "asterion"
+    },
+    "scarcity": "Rare",
+    "primary": "#4C4C4C",
+    "extra": "#00AAFF"
+  },
+  "51": {
+    "name": "Gorgo",
+    "description": "",
+    "collection": "",
+    "background_color": "f3f2f3",
+    "external_url": "",
+    "supply": "3",
+    "race": "Asterion",
+    "image": {
+      "frame": "mythic",
+      "model": "gorgo",
+      "background": "asterion"
+    },
+    "scarcity": "Mythic",
+    "primary": "#4C4C4C",
+    "extra": "#00AAFF"
+  },
   "mystery": {
     "name": "mystery",
     "description": "",
