@@ -1081,7 +1081,12 @@
     },
     "scarcity": "Mythic",
     "primary": "#1B97EF",
-    "extra": "#EFB917"
+    "extra": "#EFB917",
+    "stats": {
+      "radar": 180,
+      "drill": 220,
+      "machinery": 140
+    }
   },
   "50": {
     "name": "Gemini",
@@ -1098,7 +1103,12 @@
     },
     "scarcity": "Rare",
     "primary": "#4C4C4C",
-    "extra": "#00AAFF"
+    "extra": "#00AAFF",
+    "stats": {
+      "radar": 145,
+      "drill": 145,
+      "machinery": 130
+    }
   },
   "51": {
     "name": "Gorgo",
@@ -1115,7 +1125,12 @@
     },
     "scarcity": "Mythic",
     "primary": "#4C4C4C",
-    "extra": "#00AAFF"
+    "extra": "#00AAFF",
+    "stats": {
+      "radar": 180,
+      "drill": 200,
+      "machinery": 160
+    }
   },
   "mystery": {
     "name": "mystery",
