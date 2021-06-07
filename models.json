@@ -755,10 +755,10 @@
   },
   "35": {
     "name": "Leucurus",
-    "description": "",
+    "description": "The Leucurus is based around an updated Unobtanium reactor that provides double the power of an Anakuma-class ship, allowing greater cargo capacity and crew space. In addition to long range mining sensors, it has a separate subsystem for tracking the sweet, golden Mana that the Mele prize for nutrition and enjoyment. In fact, some Leucurus are used as Mele party ships that travel the galaxy in search of Mana while ignoring mining opportunities — which is why other miners always hail a Leucurus to see if a party is in progress.",
     "collection": "badger",
     "background_color": "f3f2f3",
-    "external_url": "The Leucurus is based around an updated Unobtanium reactor that provides double the power of an Anakuma-class ship, allowing greater cargo capacity and crew space. In addition to long range mining sensors, it has a separate subsystem for tracking the sweet, golden Mana that the Mele prize for nutrition and enjoyment. In fact, some Leucurus are used as Mele party ships that travel the galaxy in search of Mana while ignoring mining opportunities — which is why other miners always hail a Leucurus to see if a party is in progress.",
+    "external_url": "",
     "supply": "5",
     "race": "Meles",
     "image": {
