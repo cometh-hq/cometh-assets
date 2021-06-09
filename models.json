@@ -1222,7 +1222,8 @@
       "radar": 132,
       "drill": 260,
       "machinery": 148
-    }
+    },
+    "invariant": true
   },
 
   "mystery": {
