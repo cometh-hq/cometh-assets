@@ -1132,6 +1132,99 @@
       "machinery": 160
     }
   },
+
+  "52": {
+    "name": "Detos",
+    "description": "With the ability to gather an almost infinite amount of data at a moment's notice, the Detos is one of the 4 remaining ships of the Vysteons Race. Each ship with its own special ability is just a part of the collective. When all together, the attributes of each ship combine to create a sum greater than its parts to obtain Meta Vision.",
+    "collection": "APY.vision",
+    "background_color": "f3f2f3",
+    "external_url": "",
+    "supply": "50",
+    "race": "Vysteons",
+    "image": {
+      "frame": "common",
+      "model": "detos",
+      "background": "vysteons"
+    },
+    "scarcity": "Common",
+    "primary": "#D506D6",
+    "extra": "#06B5DD",
+    "stats": {
+      "radar": 102,
+      "drill": 108,
+      "machinery": 90
+    }
+  },
+
+  "53": {
+    "name": "Foresight",
+    "description": "With the ability to scan ahead further than any other ship in the Galaxy, the Foresight is one of the 4 remaining ships of the  Vysteons Race. Each ship with its own special ability is just a part of the collective. When all together, the attributes of each ship combine to create a sum greater than its parts to obtain Meta Vision.",
+    "collection": "APY.vision",
+    "background_color": "f3f2f3",
+    "external_url": "",
+    "supply": "24",
+    "race": "Vysteons",
+    "image": {
+      "frame": "uncommon",
+      "model": "foresight",
+      "background": "vysteons"
+    },
+    "scarcity": "Uncommon",
+    "primary": "#D506D6",
+    "extra": "#06B5DD",
+    "stats": {
+      "radar": 114,
+      "drill": 114,
+      "machinery": 112
+    }
+  },
+
+  "54": {
+    "name": "Annuarre",
+    "description": "With the ability to Jump forward and back through time, the Annuarre is one of the 4 remaining ships of the  Vysteons Race. Each ship with its own special ability is just a part of the collective. When all together, the attributes of each ship combine to create a sum greater than its parts to obtain Meta Vision.",
+    "collection": "APY.vision",
+    "background_color": "f3f2f3",
+    "external_url": "",
+    "supply": "4",
+    "race": "Vysteons",
+    "image": {
+      "frame": "rare",
+      "model": "annuarre",
+      "background": "vysteons"
+    },
+    "scarcity": "Rare",
+    "primary": "#D506D6",
+    "extra": "#06B5DD",
+    "stats": {
+      "radar": 190,
+      "drill": 115,
+      "machinery": 115
+    }
+  },
+
+  "55": {
+    "name": "Mot",
+    "description": "When all 4 ships are combined they possess the ability to harvest comets for their precious resources with 100% efficiency. Mot is the connecting ship for the other 3 ships that allow all of their abilities to be used simultaneously to create the perfect comet miner. The centerpiece of the 4 remaining ships of the Vysteons Race.",
+    "collection": "APY.vision",
+    "background_color": "f3f2f3",
+    "external_url": "",
+    "supply": "1",
+    "race": "Vysteons",
+    "image": {
+      "frame": "mythic",
+      "model": "mot",
+      "background": "vysteons"
+    },
+    "scarcity": "Mythic",
+    "primary": "#D506D6",
+    "extra": "#06B5DD",
+    "stats": {
+      "radar": 132,
+      "drill": 260,
+      "machinery": 148
+    }
+  },
+
   "mystery": {
     "name": "mystery",
     "description": "",
