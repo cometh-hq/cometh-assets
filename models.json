@@ -1226,6 +1226,31 @@
     "invariant": true
   },
 
+
+  "1000": {
+    "name": "Mule",
+    "description": "",
+    "collection": "Mule",
+    "background_color": "f3f2f3",
+    "external_url": "",
+    "supply": "0",
+    "race": "Human",
+    "image": {
+      "frame": "common",
+      "model": "mule",
+      "background": "human"
+    },
+    "scarcity": "Common",
+    "primary": "#545454",
+    "extra": "#0c90ff",
+    "stats": {
+      "radar": 0,
+      "drill": 0,
+      "machinery": 0
+    },
+    "is1155": true
+  },
+
   "mystery": {
     "name": "mystery",
     "description": "",
