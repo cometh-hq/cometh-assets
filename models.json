@@ -1226,6 +1226,100 @@
     "invariant": true
   },
 
+  "56": {
+    "name": "Ape-X",
+    "description": "Ape-X used to serve as public transport ships on Safa’ary, at a time when the luxurious planet was thriving, long before its people were eventually forced to exile. Already fast and reliable at the core, it was without counting on the ingenuity of a certain master craftsman called B-Neiluj who later added a graphene coating to the high-throughput ion thrusters for maximum asteroid mining performance. They now operate as a decentralised faction called The Barrel Squadron and can mine quicker than any of their class.",
+    "collection": "Stake DAO",
+    "background_color": "f3f2f3",
+    "external_url": "",
+    "supply": "200",
+    "race": "Herd",
+    "image": {
+      "frame": "common",
+      "model": "ape-X",
+      "background": "herd"
+    },
+    "scarcity": "Common",
+    "primary": "#f5f1ea",
+    "extra": "#3f47fd",
+    "stats": {
+      "radar": 100,
+      "drill": 100,
+      "machinery": 100
+    }
+  },
+
+  "57": {
+    "name": "Dogg’O",
+    "description": "The Dogg’O spaceships were the first line of defense when waves after waves of envious races came crashing against the might of the Safa’ary army. The versatile, technologically advanced spacecrafts have proven themselves countless times, generations after generations of ace pilots forging legends from within its wolf-shaped cockpit. They have since joined The Barrel Squadron and outlived many a civilisation, complementing the Ape-X speed with resounding fire power and manoeuvrability.",
+    "collection": "Stake DAO",
+    "background_color": "f3f2f3",
+    "external_url": "",
+    "supply": "60",
+    "race": "Herd",
+    "image": {
+      "frame": "uncommon",
+      "model": "dogg-O",
+      "background": "herd"
+    },
+    "scarcity": "Uncommon",
+    "primary": "#f5f1ea",
+    "extra": "#3f47fd",
+    "stats": {
+      "radar": 100,
+      "drill": 100,
+      "machinery": 100
+    }
+  },
+
+  "58": {
+    "name": "G-raff",
+    "description": "The G-Raff is a flying monument, a testament to the greatness of the Safa’ary people. These mighty longships have been designed to roam the galaxy, trading and expanding the influence of the old democratic planet. The Safa’aries have been collecting wealth across many solar systems for hundreds of years, fending off terrible foes along the way. G-raffs are both coveted and feared by space pirates across the ether, they have been here for ages and for ages more they will be.",
+    "collection": "Stake DAO",
+    "background_color": "f3f2f3",
+    "external_url": "",
+    "supply": "8",
+    "race": "Herd",
+    "image": {
+      "frame": "rare",
+      "model": "g-raff",
+      "background": "herd"
+    },
+    "scarcity": "Rare",
+    "primary": "#f5f1ea",
+    "extra": "#3f47fd",
+    "stats": {
+      "radar": 100,
+      "drill": 100,
+      "machinery": 100
+    }
+  },
+
+
+  "59": {
+    "name": "Mastodon",
+    "description": "The Mastodon is rumoured to be the last ship to have escaped the Sanctuary hangar from planet Safa’ary a thousand years ago: it is said that this technological jewel carries the mysterious relics that bestow the Ancient Safa’ary people their supernatural powers. The imposing cruiser is designed to handle defense like no other. Its two multiple-barrel, tusk-like, plasma cannons deal such damage that no one ever dared to challenge it.",
+    "collection": "Stake DAO",
+    "background_color": "f3f2f3",
+    "external_url": "",
+    "supply": "1",
+    "race": "Herd",
+    "image": {
+      "frame": "mythic",
+      "model": "mastodon",
+      "background": "herd"
+    },
+    "scarcity": "Mythic",
+    "primary": "#f5f1ea",
+    "extra": "#3f47fd",
+    "stats": {
+      "radar": 100,
+      "drill": 100,
+      "machinery": 100
+    },
+    "invariant": true
+  },
+
 
   "1000": {
     "name": "Mule",
