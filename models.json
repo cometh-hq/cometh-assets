@@ -1243,9 +1243,9 @@
     "primary": "#f5f1ea",
     "extra": "#3f47fd",
     "stats": {
-      "radar": 100,
+      "radar": 90,
       "drill": 100,
-      "machinery": 100
+      "machinery": 110
     }
   },
 
@@ -1266,9 +1266,9 @@
     "primary": "#f5f1ea",
     "extra": "#3f47fd",
     "stats": {
-      "radar": 100,
-      "drill": 100,
-      "machinery": 100
+      "radar": 112,
+      "drill": 116,
+      "machinery": 112
     }
   },
 
@@ -1289,7 +1289,7 @@
     "primary": "#f5f1ea",
     "extra": "#3f47fd",
     "stats": {
-      "radar": 100,
+      "radar": 220,
       "drill": 100,
       "machinery": 100
     }
@@ -1313,9 +1313,9 @@
     "primary": "#f5f1ea",
     "extra": "#3f47fd",
     "stats": {
-      "radar": 100,
-      "drill": 100,
-      "machinery": 100
+      "radar": 220,
+      "drill": 300,
+      "machinery": 20
     },
     "invariant": true
   },
