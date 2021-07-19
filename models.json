@@ -1320,6 +1320,30 @@
     "invariant": true
   },
 
+  "60": {
+    "name": "Le France",
+    "description": "",
+    "collection": "EthCC",
+    "background_color": "f3f2f3",
+    "external_url": "",
+    "supply": "10",
+    "race": "Etherean",
+    "image": {
+      "frame": "rare",
+      "model": "lefrance",
+      "background": "etherean"
+    },
+    "scarcity": "Rare",
+    "primary": "#545454",
+    "extra": "#0C90FF",
+    "stats": {
+      "radar": 220,
+      "drill": 100,
+      "machinery": 100
+    },
+    "invariant": false
+  },
+
 
   "1000": {
     "name": "Mule",
