@@ -1337,9 +1337,9 @@
     "primary": "#545454",
     "extra": "#0C90FF",
     "stats": {
-      "radar": 220,
-      "drill": 100,
-      "machinery": 100
+      "radar": 100,
+      "drill": 175,
+      "machinery": 145
     },
     "invariant": false
   },
