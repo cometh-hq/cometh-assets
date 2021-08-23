@@ -1350,7 +1350,7 @@
     "collection": "EthCC",
     "background_color": "f3f2f3",
     "external_url": "",
-    "supply": "300",
+    "supply": "200",
     "race": "The Yammerians",
     "image": {
       "frame": "uncommon",
@@ -1406,14 +1406,14 @@
       "background": "yammerians"
     },
     "scarcity": "Mythic",
-    "primary": "#545454",
-    "extra": "#0C90FF",
+    "primary": "#e67d1c",
+    "extra": "#516991",
     "stats": {
       "radar": 100,
       "drill": 175,
       "machinery": 145
     },
-    "invariant": false
+    "invariant": true
   },
 
 
