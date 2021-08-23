@@ -1344,6 +1344,78 @@
     "invariant": false
   },
 
+  "61": {
+    "name": "The Alata",
+    "description": "",
+    "collection": "EthCC",
+    "background_color": "f3f2f3",
+    "external_url": "",
+    "supply": "300",
+    "race": "The Yammerians",
+    "image": {
+      "frame": "uncommon",
+      "model": "alata",
+      "background": "yammerians"
+    },
+    "scarcity": "Uncommon",
+    "primary": "#545454",
+    "extra": "#0C90FF",
+    "stats": {
+      "radar": 100,
+      "drill": 175,
+      "machinery": 145
+    },
+    "invariant": false
+  },
+
+  "62": {
+    "name": "The Trifida",
+    "description": "",
+    "collection": "EthCC",
+    "background_color": "f3f2f3",
+    "external_url": "",
+    "supply": "4",
+    "race": "The Yammerians",
+    "image": {
+      "frame": "rare",
+      "model": "trifida",
+      "background": "yammerians"
+    },
+    "scarcity": "Rare",
+    "primary": "#545454",
+    "extra": "#0C90FF",
+    "stats": {
+      "radar": 100,
+      "drill": 175,
+      "machinery": 145
+    },
+    "invariant": false
+  },
+
+  "63": {
+    "name": "The Rotunda",
+    "description": "",
+    "collection": "EthCC",
+    "background_color": "f3f2f3",
+    "external_url": "",
+    "supply": "1",
+    "race": "The Yammerians",
+    "image": {
+      "frame": "mythic",
+      "model": "rotunda",
+      "background": "yammerians"
+    },
+    "scarcity": "Mythic",
+    "primary": "#545454",
+    "extra": "#0C90FF",
+    "stats": {
+      "radar": 100,
+      "drill": 175,
+      "machinery": 145
+    },
+    "invariant": false
+  },
+
 
   "1000": {
     "name": "Mule",
