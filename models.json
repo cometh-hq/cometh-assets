@@ -1350,14 +1350,14 @@
     "collection": "Yam",
     "background_color": "f3f2f3",
     "external_url": "",
-    "supply": "200",
+    "supply": "300",
     "race": "The Yammerians",
     "image": {
-      "frame": "uncommon",
+      "frame": "Common",
       "model": "alata",
       "background": "yammerians"
     },
-    "scarcity": "Uncommon",
+    "scarcity": "common",
     "primary": "#545454",
     "extra": "#0C90FF",
     "stats": {
@@ -1374,14 +1374,14 @@
     "collection": "Yam",
     "background_color": "f3f2f3",
     "external_url": "",
-    "supply": "4",
+    "supply": "50",
     "race": "The Yammerians",
     "image": {
-      "frame": "rare",
+      "frame": "uncommon",
       "model": "trifida",
       "background": "yammerians"
     },
-    "scarcity": "Rare",
+    "scarcity": "Uncommon",
     "primary": "#545454",
     "extra": "#0C90FF",
     "stats": {
