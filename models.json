@@ -1358,12 +1358,12 @@
       "background": "yammerians"
     },
     "scarcity": "common",
-    "primary": "#545454",
-    "extra": "#0C90FF",
+    "primary": "#801c40",
+    "extra": "#f78419",
     "stats": {
-      "radar": 100,
-      "drill": 175,
-      "machinery": 145
+      "radar": 80,
+      "drill": 110,
+      "machinery": 110
     },
     "invariant": false
   },
@@ -1382,12 +1382,12 @@
       "background": "yammerians"
     },
     "scarcity": "Uncommon",
-    "primary": "#545454",
-    "extra": "#0C90FF",
+    "primary": "#d57924",
+    "extra": "#26d4ec",
     "stats": {
-      "radar": 100,
-      "drill": 175,
-      "machinery": 145
+      "radar": 120,
+      "drill": 140,
+      "machinery": 80
     },
     "invariant": false
   },
@@ -1409,9 +1409,9 @@
     "primary": "#e67d1c",
     "extra": "#516991",
     "stats": {
-      "radar": 100,
-      "drill": 175,
-      "machinery": 145
+      "radar": 180,
+      "drill": 180,
+      "machinery": 180
     },
     "invariant": true
   },
@@ -1433,9 +1433,9 @@
     "primary": "#e67d1c",
     "extra": "#516991",
     "stats": {
-      "radar": 100,
-      "drill": 175,
-      "machinery": 145
+      "radar": 80,
+      "drill": 100,
+      "machinery": 120
     },
     "invariant": false
   },
