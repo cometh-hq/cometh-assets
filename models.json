@@ -908,7 +908,6 @@
       "drill": 120,
       "machinery": 120
     }
-
   },
   "42": {
     "name": "Pinakion",
@@ -1295,7 +1294,6 @@
     }
   },
 
-
   "59": {
     "name": "Mastodon",
     "description": "The Mastodon is rumoured to be the last ship to have escaped the Sanctuary hangar from planet Safa’ary a thousand years ago: it is said that this technological jewel carries the mysterious relics that bestow the Ancient Safa’ary people their supernatural powers. The imposing cruiser is designed to handle defense like no other. Its two multiple-barrel, tusk-like, plasma cannons deal such damage that no one ever dared to challenge it.",
@@ -1440,6 +1438,125 @@
     "invariant": false
   },
 
+  "65": {
+    "name": "Spiritus",
+    "description": "A cluster of these ships came through from the void, with their flexible tendrils rippling in their trail. Small, with a smooth central hull, and long appendages acting both as sensors and sails for electromagnetic currents, the Spiritus were once partly organic, with a small symbiotic species inhabiting and navigating. None of the symbiotes seem to have survived the void, so the crew now consists of the quieter, more diminutive refugees, having sympathetically brought parts of the ship back to life. Seeing these ships together reminded the humans of video footage they saw of long-gone sea creatures, swimming and moving together as if with one mind.",
+    "collection": "genesis",
+    "background_color": "f3f2f3",
+    "external_url": "",
+    "supply": "100",
+    "race": "Void",
+    "image": {
+      "frame": "common",
+      "model": "spiritus",
+      "background": "void"
+    },
+    "scarcity": "Common",
+    "primary": "#e67d1c",
+    "extra": "#516991",
+    "stats": {
+      "radar": 80,
+      "drill": 100,
+      "machinery": 120
+    },
+    "invariant": false
+  },
+
+  "66": {
+    "name": "Time Attack",
+    "description": "If this ship had functions beyond what it can do now, they have been long forgotten. The crew, even with the input of the intelligence from the void, have never been able to work out the function of some of the equipment in this highly advanced and elegant ship. Some symbols indicate the manipulation of fluctuations in time, but that hasn’t happened since these ships travelled to the void, or else, presumably, they would have undone that mistake. Nonetheless, the speeds this craft can achieve are mind-boggling, increasing with proximity to a black hole, indicating an interesting connection there...",
+    "collection": "genesis",
+    "background_color": "f3f2f3",
+    "external_url": "",
+    "supply": "50",
+    "race": "Void",
+    "image": {
+      "frame": "uncommon",
+      "model": "timeattack",
+      "background": "void"
+    },
+    "scarcity": "Uncommon",
+    "primary": "#e67d1c",
+    "extra": "#516991",
+    "stats": {
+      "radar": 80,
+      "drill": 100,
+      "machinery": 120
+    },
+    "invariant": false
+  },
+
+  "67": {
+    "name": "Strider",
+    "description": "Looking like it could be an ancestor of a Treasurer ship, the Strider is small, agile and inquisitive. Able to pass through asteroid fields with extraordinary ease and speed, the design seems to be built for exploration and being able to evade attack. Witnesses have reported seeing Striders seemingly travel short distances instantaneously, but the crew members have evaded questions on this. Fairly rudimentary inside, with little room for anything beyond navigation, quarters and mining equipment, these ships tend to attract an adventurous crew of chancers and risk-takers. ",
+    "collection": "genesis",
+    "background_color": "f3f2f3",
+    "external_url": "",
+    "supply": "10",
+    "race": "Void",
+    "image": {
+      "frame": "rare",
+      "model": "strider",
+      "background": "void"
+    },
+    "scarcity": "Rare",
+    "primary": "#e67d1c",
+    "extra": "#516991",
+    "stats": {
+      "radar": 80,
+      "drill": 100,
+      "machinery": 120
+    },
+    "invariant": false
+  },
+
+  "68": {
+    "name": "Monolith",
+    "description": "An imposing ship of huge and graceful beauty. Gliding through the black emptiness, the Monolith looks like nothing from the near quadrant, and exudes an element of terror to those who see it first-hand. Inside, though the occupants have clearly adapted the furnishings to their needs, the architecture is soaring and cavernous. Many large and forbidding chambers seem to have not been designed for any practical purpose, except maybe ceremonial or burial, but are now used as sleeping quarters and storage by the crew and civilians.",
+    "collection": "genesis",
+    "background_color": "f3f2f3",
+    "external_url": "",
+    "supply": "50",
+    "race": "Void",
+    "image": {
+      "frame": "uncommon",
+      "model": "monolith",
+      "background": "void"
+    },
+    "scarcity": "Uncommon",
+    "primary": "#e67d1c",
+    "extra": "#516991",
+    "stats": {
+      "radar": 80,
+      "drill": 100,
+      "machinery": 120
+    },
+    "invariant": false
+  },
+
+  "69": {
+    "name": "Sound Wave",
+    "description": "The arrival of Sound Wave ships back to a human colony was met with profound disbelief from anyone with a mote of history. Rumour was that a handful of entertainment vessels were on their way home from the next quadrant, when the captain suggested piggy-backing on a pull going down nearby. This was a profoundly false economy, as this set of stunning cruise ships, equipped with every modern convenience, dining salon and holodeck, failed to arrive home, thereby obliging the captain to feed and entertain the guests until their deaths, and then their children, and their children, and so on. Looking like something out of an early 20th century department store catalogue, Sound Waves were made for entertainment, not speed, agility or battle prowess. The void intelligence improved their fighting ability for the sake of the battles, but the strength of these is in their ability to lift the spirit, and provide laughter and solace for all who travel in them.",
+    "collection": "genesis",
+    "background_color": "f3f2f3",
+    "external_url": "",
+    "supply": "300",
+    "race": "Void",
+    "image": {
+      "frame": "common",
+      "model": "soundwave",
+      "background": "void"
+    },
+    "scarcity": "Common",
+    "primary": "#e67d1c",
+    "extra": "#516991",
+    "stats": {
+      "radar": 80,
+      "drill": 100,
+      "machinery": 120
+    },
+    "invariant": false
+  },
 
   "1000": {
     "name": "Mule",
